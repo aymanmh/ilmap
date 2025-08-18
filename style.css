@@ -1,0 +1,163 @@
+body {
+    font-family: sans-serif;
+    color: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Width*/
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+/*Track*/
+::-webkit-scrollbar-track {
+    background: #2d2733;
+}
+
+/*Handle*/
+::-webkit-scrollbar-thumb {
+    background: #555;
+}
+
+/*Handle on hover*/
+::-webkit-scrollbar-thumb:hover {
+    background: #dcbfff;
+}
+
+.world-map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: max-content;
+    height: max-content;
+    min-height: 30em;
+    background-color: #151218;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    width: 100vw;
+    height: 100vh;
+}
+
+path {
+    fill: #443d4b;
+    stroke: #f2e7ff;
+    transition: 100ms;
+}
+
+path:hover {
+    fill: #a37dce
+}
+
+.side-panel {
+    position: fixed;
+    background-color: #1d1a20;
+    opacity: 0.95;
+    padding: 2em;
+    top: 0;
+    left: -30em;
+    width: 100%;
+    max-width: 30em;
+    height: 100vh;
+    transition: 600ms cubic-bezier(0.77, 0, 0.18, 1);
+    overflow: scroll;
+    z-index: 1;
+}
+
+.side-panel .container {
+    padding-block: 2em;
+    transition: 200ms ease-out;
+}
+
+.side-panel-open {
+    left: 0;
+}
+
+.hide {
+    opacity: 0;
+}
+
+.close-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 3em;
+    height: 3em;
+    border: none;
+    background-color: #443d4b;
+    color: #fff;
+    transition: 100ms;
+    cursor: pointer;
+}
+
+.close-btn i {
+    font-size: 2em;
+}
+
+.close-btn:hover {
+    background-color: #c99aff;
+}
+
+.zoom-controls {
+    position: fixed;
+    top: 1em;
+    right: 1em;
+}
+
+.zoom-controls button {
+    display: block;
+    width: 1.5em;
+    height: 1.5em;
+    font-size: 1.5em;
+    background-color: #443d4b;
+    color: #fff;
+    border: 1px #dcbfff solid;
+    cursor: pointer;
+}
+
+.zoom-controls button:hover {
+    background-color: #2e2a33;
+}
+
+button:disabled {
+    background-color: #1d1a20;
+    border: 1px #443d4b solid;
+    cursor: default;
+    color: #333
+}
+
+.zoom-out {
+    margin-bottom: 10px;
+}
+
+.textList {
+    margin-top: 1em;
+    font-size: 1em;
+
+}
+
+.textList ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.sourcesList {
+    margin-top: 2em;
+    font-size: 0.7em;
+}
+
+.sourcesList ol {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8em;
+}
