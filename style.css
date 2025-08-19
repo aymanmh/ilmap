@@ -9,6 +9,15 @@ body {
     box-sizing: border-box;
 }
 
+a:link {
+    color: #7898e8;
+}
+
+/* visited link */
+a:visited {
+    color: #a799cd;
+}
+
 /*Width*/
 ::-webkit-scrollbar {
     width: 10px;
@@ -153,7 +162,7 @@ button:disabled {
 
 .sourcesList {
     margin-top: 2em;
-    font-size: 0.7em;
+    font-size: 0.75em;
 }
 
 .sourcesList ol {

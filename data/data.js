@@ -44,6 +44,23 @@ const data =
             ]
         },
         {
+            "country": "Mexico",
+            "desc": [
+                {
+                    "text": "Mexico, known for its extreme police brutality, is one of the largest markets for Israeli cybersecurity and surveillance companies, at least 30 companies operating in the country according the government.",
+                    "source": "DIMSE. <a href=\"https://dimse.info/mexico/\" target=\"_blank\"> “The Database of Israeli Military and Security Export.”</a> Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "The Israeli NSO Group's spyware Pegasus was widely used by the Mexican government, targeting journalists, human rights activist and even the victims' families and international investigators looking into the Ayotzinapa case (the abduction and disappearance of 43 male students in 2014). The Pegasus Project uncovered over 15,000 Mexican numbers that were used for targeting by the spyware.",
+                    "source": "The Pegasus Project (2021, July 21). <a href=\"https://www.occrp.org/en/project/the-pegasus-project/grieving-parents-of-murdered-mexican-students-on-list-of-suspected-targets-of-military-grade-israeli-spyware\" target=\"_blank\"> “Grieving parents of murdered Mexican students on list of suspected targets of Military-Grade Israeli spyware.”</a> OCCRP."
+                },
+                {
+                    "text": "A 2020 investigation by The Cartel Project found that the Mexican police sold spyware technology to drug cartels. The specifics of which spyware were sold is unknown, but given the NSO's large share of the Mexican spyware market, Pegasus is a likely suspect.",
+                    "source": "Lakhani, N. (2020, December 10). <a href=\"https://www.theguardian.com/world/2020/dec/07/mexico-cartels-drugs-spying-corruption\" target=\"_blank\"> ““It's a free-for-all”: how hi-tech spyware ends up in the hands of Mexico's cartels.”</a> The Guardian. Web. 14 Aug. 2025."
+                }
+            ]
+        },
+        {
             "country": "Honduras",
             "desc": [
                 {
@@ -237,12 +254,16 @@ const data =
             "country": "Ethiopia",
             "desc": [
                 {
-                    "text": "The Ethiopian police, who according to reports, are responsible for mass detention of minorities and persecution of opposition forces and journalists, bought phone hacking tech from the Israeli surveillance firm Cellebrite inorder to hack into the cellpohnes of detanees.",
-                    "source": "Yaron, O. (2022, December 18). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2022-12-18/ty-article/.premium/ethiopian-police-obtain-phone-hacking-technology-from-israeli-firm-cellebrite/00000185-2556-defc-ab97-2d77e1a10000\" target=\"_blank\"> “Ethiopia obtains phone-hacking tech from Israeli firm Cellebrite.”</a> Haaretz.com. Web. 14 Aug. 2025."
+                    "text": "Israel maintained close relationship with Haile Selassie regime, providing arms for its military and training to its secret police. Israel used Ethiopia as a way station for covert activities all over the Middle East and Africa, masked by commercial fronts.",
+                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 52. Print."
                 },
                 {
-                    "text": "Israel maintained close relatiohsip with Haile Selassie regime, providing arms for its militray and training to its secret police. Israel used Ethopia as a way station for covert activities all over the Middle East and Africa, masked by commercial fronts.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 52. Print."
+                    "text": "in 2016-17 a spyware bought from the Israeli cyber security company Cyberbit was used against dissidents living in the U.S., U.K. and other countries.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2017/12/champing-cyberbit-ethiopian-dissidents-targeted-commercial-spyware/\" target=\"_blank\"> “Champing at the Cyberbit: Ethiopian Dissidents Targeted with New Commercial Spyware.”</a>  The Citizen Lab. Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "The Ethiopian police, who according to reports, are responsible for mass detention of minorities and persecution of opposition forces and journalists, bought phone hacking tech from the Israeli surveillance firm Cellebrite to hack into the cellphones of detainees.",
+                    "source": "Yaron, O. (2022, December 18). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2022-12-18/ty-article/.premium/ethiopian-police-obtain-phone-hacking-technology-from-israeli-firm-cellebrite/00000185-2556-defc-ab97-2d77e1a10000\" target=\"_blank\"> “Ethiopia obtains phone-hacking tech from Israeli firm Cellebrite.”</a> Haaretz.com. Web. 14 Aug. 2025."
                 }
             ]
         },
@@ -261,6 +282,10 @@ const data =
                 {
                     "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in Nigeria.",
                     "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
+                },
+                {
+                    "text": "Products of the Israeli surveillance firm Circles were sold in 2012 to the governors of Delta and Bayelsa, in 2015 election, the governor of Bayelsa used the capabilities to monitor his chief rival and his wife and aides, and in one case to locate and arrest a well-known critic of the regime. In 2013, the Israeli firm Elbit Systems had supplied Nigeria with an espionage an program.",
+                    "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
                 }
             ]
         },
@@ -315,6 +340,15 @@ const data =
                 {
                     "text": "Despite going on the record to support the UN-imposed sanctions against Rhodesia (now Zimbabwe) in 1967, and through the late 1970s, Israel continued to maintain trade with the apartheid regime and provide it with arms, including Uzis and helicopters, in addition to helping Rhodesia manufacture its own submachine gun models called “Ruzis.” Israel helped Rhodesia fortify its borders by installing a land-mine belt that was 500 miles long.",
                     "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 63. Print."
+                }
+            ]
+        },
+        {
+            "country": "Swaziland",
+            "desc": [
+                {
+                    "text": "In 2018, an Israeli investigation revealed that the Israeli subsidiary of Verint sold systems relating to communications interception to Swaziland, which has gained the dubious distinction of being “the last absolutist monarchy in Africa”.",
+                    "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
                 }
             ]
         },
@@ -403,12 +437,16 @@ const data =
                     "source": "Mack E., (2019b, November 21).<a href=\"https://www.972mag.com/israel-whitewash-indonesia-anti-communist-massacres/\" target=\"_blank\"> “How Israel helped whitewash Indonesia's anti-leftist massacres”</a> +972 Magazine. Web. 14 Aug. 2025."
                 },
                 {
+                    "text": "In 2018, an Israeli invistigation revelaed that the Israeli subsidiary of Verint helped to create a database of LGBT rights activists who had been targeted for surveillance and another for religious minorities.",
+                    "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
+                },
+                {
                     "text": "Until at least 2020, the Indonesian government was a client of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to snoop on calls, texts, and the location of phones.",
                     "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab. Web. 14 Aug. 2025."
                 },
                 {
                     "text": "An investigation led by Amnesty International's Security Lab has revealed that in recent years Indonesia, which has no diplomatic ties with Israel, imported Israeli spy tech from at least four Israeli companies, Between January 2019 and May 2022, Amnesty International recorded at least 90 instances of digital harassment and other forms of digital attacks directed against civil society actors which resulted in at least 148 victims, including human rights defenders, activists, journalists, environmental activists, students, and protestors.",
-                    "source": "Amnesty International’s Security Lab. (2024, November 18).<a href=\"https://securitylab.amnesty.org/latest/2024/05/a-web-of-surveillance\" target=\"_blank\"> “A Web of Surveillance: Unravelling a murky network of spyware exports to Indonesia.”</a> Amnesty International. Web. 14 Aug. 2025."
+                    "source": "Amnesty International's Security Lab. (2024, November 18).<a href=\"https://securitylab.amnesty.org/latest/2024/05/a-web-of-surveillance\" target=\"_blank\"> “A Web of Surveillance: Unravelling a murky network of spyware exports to Indonesia.”</a> Amnesty International. Web. 14 Aug. 2025."
                 }
             ]
         },
@@ -427,6 +465,10 @@ const data =
                 {
                     "text": "Israel gave support to the U.S. backed Marcos dictatorship in the Philippines. It supplied bodyguards for Marcos and provided covert training courses through private companies.",
                     "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 29-31 . Print."
+                },
+                {
+                    "text": "Israeli surveillance firm Cellebrite sold spy-tech to Duterte's government which is infamous for its extrajudicial killings as part of thier war against drugs, as well as the assasasination and persecution of journaslists and activsts.",
+                    "source": "Yaron, O. (2022a, January 17). <a href=\"https://www.haaretz.com/israel-news/tech-news/2022-01-17/ty-article/.premium/israels-cellebrite-phone-hacking-tech-is-helping-dutertes-heros/0000017f-e13d-d7b2-a77f-e33f2cac0000\" target=\"_blank\"> “Israeli phone-hacking tech is helping Duterte’s war on drugs, media.”</a> Haaretz.com. Web. 14 Aug. 2025."
                 }
             ]
         },
@@ -435,7 +477,7 @@ const data =
             "desc": [
                 {
                     "text": "Israel maintained close political, economic, and security relations with the Shah of Iran despite being well aware of his murderous suppression of political opponents.",
-                    "source": "+972 Magazine. (2019, November 21). <a href=\"https://www.972mag.com/israel-shah-iran-dictatorship/\" target=\"_blank\"> “The unwritten history of Israel's alliance with the Shah's dictatorship.”</a>  Web. 14 Aug. 2025."
+                    "source": "+972 Magazine. (2019, November 21). <a href=\"https://www.972mag.com/israel-shah-iran-dictatorship/\" target=\"_blank\"> “The unwritten history of Israel's alliance with the Shah's dictatorship.”</a> Web. 14 Aug. 2025."
                 },
                 {
                     "text": "From 1954 on, the Shah's secret police received training from the CIA and Israel.",
@@ -456,8 +498,12 @@ const data =
             "country": "India",
             "desc": [
                 {
-                    "text": "India is the largest importer of Israeli arms, making Israel a major supplier of military and surveillance technologies to India's occupation of Kashmir.",
+                    "text": "India is the largest importer of Israeli arms, making Israel a major supplier of military and surveillance technologies to India's occupation of Jammu and Kashmir.",
                     "source": "Asif Khan, M. (2025, April 30). <a href=\"https://newint.org/arms/2025/partners-power-israel-india-and-arms-trade\" target=\"_blank\"> “Partners in power: Israel, India and the arms trade.”</a> New Internationalist. Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "The Israeli NSO Group's Pegasus spyware was used against human rights activist in and journalists since 2017.",
+                    "source": "Amnesty International. (20223, December 28). <a href=\"https://www.amnesty.org/en/latest/news/2023/12/india-damning-new-forensic-investigation-reveals-repeated-use-of-pegasus-spyware-to-target-high-profile-journalists/\" target=\"_blank\"> “India: Damning new forensic investigation reveals repeated use of Pegasus spyware to target high-profile journalists.”</a>."
                 }
             ]
         },
@@ -474,8 +520,16 @@ const data =
             "country": "Bahrain",
             "desc": [
                 {
-                    "text": "Both Israeli surveillance firms Cellebrite and NSO Group have sold their technologies to the dictatorship regime in Bahrain.",
-                    "source": "Loewenstein, A. The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World. Verso Books, 2024. p.103, 137. Print."
+                    "text": "The Israeli Pegasus spyware has been used against against multiple activist critical of the Bahraini regime.",
+                    "source": "Amnesty International. (2022, February 18). <a href=\"https://www.amnesty.org/en/latest/news/2022/02/bahrain-devices-of-three-activists-hacked-with-pegasus-spyware/\" target=\"_blank\"> “Bahrain: Devices of three activists hacked with Pegasus spyware.”</a> Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "The Israeli subsidiary of Verint supplied the kingdom with systems that are typically used by monitoring centers, and with another system used for collecting information from social networks.",
+                    "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "Israeli phone-cracking Cellebrite devices were used to prosecute tortured dissident.",
+                    "source": "Biddle, S., Desmukh, F., & Biddle, S. (2016, December 13). <a href=\"https://theintercept.com/2016/12/08/phone-cracking-cellebrite-software-used-to-prosecute-tortured-dissident/\" target=\"_blank\"> “Phone-Cracking Cellebrite software used to prosecute tortured dissident.”</a> The Intercept. Web. 14 Aug. 2025."
                 }
             ]
         },
@@ -496,7 +550,54 @@ const data =
                 }
             ]
         },
-
+        {
+            "country": "Azerbaijan",
+            "desc": [
+                {
+                    "text": "In 2018, an Israeli invistigation revelaed that the Israeli subsidiary of Verint helped to create a system to track LGBT people baed on social media usage. In 2017, few years after the system began being used, a report revealed the arrest and torture by Azeri police of 45 gay men and transgender women.",
+                    "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "Starting in the second decade of the 21st century, Israel has been helping Azerbaijan commit war crimes and defeat the Armenians in Nagorno-Karabakh.",
+                    "source": "Haaretz Editorial. (2023, September 26). <a href=\"https://www.haaretz.com/opinion/editorial/2023-09-27/ty-article-opinion/israels-fingerprints-are-all-over-the-ethnic-cleansing-in-nagorno-karabakh/0000018a-d331-d13d-a98f-dbb5028e0000\" target=\"_blank\"> “Israel's fingerprints are all over the ethnic cleansing in Nagorno-Karabakh.”</a> Haaretz.com. Web. 14 Aug. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Armenia",
+            "desc": [
+                {
+                    "text": "Pegasus spyware targeted Armenian public figures, including journalists and human rights defenders, amid the conflict in Nagorno-Karabakh, between October 2020 and December 2022.",
+                    "source": "Amnesty International's Security Lab . (2024, August 16). <a href=\"https://www.amnesty.org/en/latest/news/2023/05/armenia-azerbaijan-pegasus-spyware-targeted-armenian-public-figures-amid-conflict/\" target=\"_blank\"> “Armenia/Azerbaijan: Pegasus spyware targeted Armenian public figures amid conflict.”</a> Amnesty International. Web. 14 Aug. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "desc": [
+                {
+                    "text": "Israel provided training and sold arms to Serbian forces during the genocide in Bosnia in the 1990s long after the UN Security Council placed an arms embargo on various parts of the former Yugoslavia. In 2016 the Supreme Court in Israel ruled against exposing Israel's role in Bosnian genocide citing potential damage to Israel's foreign relations.",
+                    "source": "Brown, J. (2016, December 6). <a href=\"https://www.972mag.com/israels-involvement-in-bosnian-genocide-to-remain-under-wraps/\" target=\"_blank\"> “Supreme Court rules against exposing Israel's role in Bosnian genocide.”</a> +972 Magazine. Web. 14 Aug. 2025."
+                }
+            ]
+        },
+        {
+            "country": "China",
+            "desc": [
+                {
+                    "text": "Israel's Cellebrite phone-cracking product was used against pro-democracy protesters in Hong Kong, and was still being sold to China even after the company said it ended sales.",
+                    "source": "Hvistendahl, M. (2023, July 26). <a href=\"https://theintercept.com/2021/08/26/cellebrite-china-cellphone-hack/\" target=\"_blank\"> “ Chinese police kept buying Cellebrite phone crackers after company said it ended sales.”</a> The Intercept. Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "Israel became a key backdoor to Western military technology for China after Western sanctions on China following the 1989 Tiananmen protest crackdown.",
+                    "source": "Mann, J. (1990, June 13). <a href=\"https://www.latimes.com/archives/la-xpm-1990-06-13-mn-95-story.html\" target=\"_blank\"> “Israeli Arms Technology Aids China: Military: U.S. officials say the growing cooperation undercuts sanctions imposed after Beijing crushed protests. Washington has objected.”</a> Los Angeles Times. Web. 14 Aug. 2025."
+                },
+                {
+                    "text": " Israeli militray exports became crucial for China's military development during the 1990s. and since the early 2000s the trade expanded beyond arms making china Israel's second-largest trading partner.",
+                    "source": "Li, P. (2023, October 21). <a href=\"https://jacobin.com/2023/10/china-israel-repression-military-trade-palestine-technology\" target=\"_blank\"> “China and Israel have a long history of cooperating in repression.”</a> Jacobin. Web. 14 Aug. 2025."
+                }
+            ]
+        },
     ]
 
 
