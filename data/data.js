@@ -166,7 +166,7 @@ const data =
             "desc": [
                 {
                     "text": "Israel armed Portugal against national liberation movements in Angola.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 43-45, 64. Print."
+                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 43. Print."
                 },
                 {
                     "text": "Israel armed the three sides of Angola's civil war at different times over four decades",
@@ -179,7 +179,7 @@ const data =
             "desc": [
                 {
                     "text": "Israel armed Portugal against national liberation movements in Guinea-Bissau.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 43-45, 64. Print."
+                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 43. Print."
                 }
             ]
         },
@@ -187,35 +187,26 @@ const data =
             "country": "Ivory Coast",
             "desc": [
                 {
-                    "text": "IIsrael funded and trained the military repression of anti-colonial uprisings and/or dictatorship in the Ivory Coast.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987.50-53. 64. Print."
-                }
+                    "text": "Israel maintained close relationship with the pro-Western dictator Houphouët-Boigny since the 1960s and had a Mossad station in the capital Abidjan to control Israeli activities in Western Africa.",
+                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 68-67. Print."
+                },
+                {
+                    "text": "Israel sold arms to Ivory cost during the civil war (2002-07) despite a UN arms embargo on the country.",
+                    "source": "Amnesty International. (2013, March 2013). <a href=\"https://www.amnesty.org/en/latest/press-release/2013/03/arms-proliferation-and-abuse-shatter-communities-c-te-divoire/\" target=\"_blank\"> “Arms proliferation and abuse shatter communities in Côte d’Ivoire.”</a> Web. 14 Aug. 2025."
+                },
+
             ]
         },
         {
             "country": "Central African Republic",
             "desc": [
                 {
-                    "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in the Central African Republic.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
-                }
-            ]
-        },
-        {
-            "country": "Benin",
-            "desc": [
+                    "text": "Israel funded and trained the military dictatorship of Emperor Bokassa (1976-79) with his closest adviser being a retired Israeli general.",
+                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 71. Print."
+                },
                 {
-                    "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in Benin.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
-                }
-            ]
-        },
-        {
-            "country": "Cameroon",
-            "desc": [
-                {
-                    "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in Cameroon.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
+                    "text": "Israel paid bribes to officials trying to dump asylum seekers from Eritrea and Sudan to the warn-torn country.",
+                    "source": "Weitz, G., & Glazer, H. (2020, December 25). <a href=\"https://www.haaretz.com/israel-news/2020-12-25/ty-article-magazine/.premium/how-israel-tried-to-dump-african-refugees-in-blood-drenched-dictatorships/0000017f-e254-df7c-a5ff-e27e9f260000\" target=\"_blank\"> “How Israel tried to dump African refugees in blood-drenched dictatorships.”</a> Haaretz. Web. 08 Sep. 2025."
                 }
             ]
         },
@@ -223,8 +214,8 @@ const data =
             "country": "Senegal",
             "desc": [
                 {
-                    "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in Senegal.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
+                    "text": "In the 1960s Israel was involved in training of the Senegal's dictatorship military.",
+                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 39. Print."
                 }
             ]
         },
@@ -232,8 +223,12 @@ const data =
             "country": "Togo",
             "desc": [
                 {
-                    "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in Togo.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
+                    "text": "Israel maintained close ties and provided arms and training to the military dictatorship of Eyadéma, a tyrant with a personality cult who died in 2005 on his way to Israel for medical treatment.",
+                    "source": "Mack, E. (2024, February 27). <a href=\"https://www.the7eye.org.il/511921\" target=\"_blank\"> “Togo remained loyal to Israel even during the war in Gaza.”</a> The Seventh Eye. Web. 14 Aug. 2025."
+                },
+                {
+                    "text": "The Israeli NSO Group's Pegasus spyware was used in Togo to target journalists, clergy and human rights activists.",
+                    "source": "Rozen, J. (2023, September 6). <a href=\"https://cpj.org/2022/07/permanent-fear-togolese-journalists-on-their-lives-1-year-after-pegasus-project-revelations/\" target=\"_blank\"> “‘Permanent fear’: Togolese journalists on their lives 1 year after Pegasus Project revelations.”</a> Committee to Protect Journalists. Web. 14 Aug. 2025."
                 }
             ]
         },
@@ -247,6 +242,10 @@ const data =
                 {
                     "text": "According to documents from the Israeli Foreign Ministry, Israel has aided and abetted brutal leaders and military forces who recruited child soldiers in Uganda for years.",
                     "source": "Mack, E. (2021, December 23).<a href=\"https://www.haaretz.com/israel-news/2021-12-24/ty-article-magazine/.highlight/uganda-docs-how-israel-arms-brutal-dictators-who-recruit-child-soldiers/0000017f-db3d-db22-a17f-ffbda1b20000\" target=\"_blank\"> “The Uganda files: How Israel arms brutal dictators who recruit child soldiers.”</a> Haaretz.com."
+                },
+                {
+                    "text": "Israel tried to dump asylum seekers from Eritrea and Sudan to the warn-torn country.",
+                    "source": "Weitz, G., & Glazer, H. (2020, December 25). <a href=\"https://www.haaretz.com/israel-news/2020-12-25/ty-article-magazine/.premium/how-israel-tried-to-dump-african-refugees-in-blood-drenched-dictatorships/0000017f-e254-df7c-a5ff-e27e9f260000\" target=\"_blank\"> “How Israel tried to dump African refugees in blood-drenched dictatorships.”</a> Haaretz. Web. 08 Sep. 2025."
                 }
             ]
         },
@@ -280,11 +279,15 @@ const data =
             "country": "Nigeria",
             "desc": [
                 {
-                    "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in Nigeria.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
+                    "text": "Israel provided political and military support to both sides during the brutal Nigerian-Biafran War in the late 1960s where over 1 million people died.",
+                    "source": "Mack, E. (2023, September 28). <a href=\"https://www.haaretz.com/israel-news/2023-09-28/ty-article-magazine/.highlight/israels-double-game-in-the-nigerian-civil-war-revealed-in-newly-declassified-documents/0000018a-dcfe-dfee-a9ee-dffe3ab00000\" target=\"_blank\"> “Arms, massacres and denials: Israel’s Double Game between Biafra and Nigeria’s government Revealed in Newly Declassified Documents.”</a> Haaretz. Web. 08 Sep. 2025."
                 },
                 {
-                    "text": "Products of the Israeli surveillance firm Circles were sold in 2012 to the governors of Delta and Bayelsa, in 2015 election, the governor of Bayelsa used the capabilities to monitor his chief rival and his wife and aides, and in one case to locate and arrest a well-known critic of the regime. In 2013, the Israeli firm Elbit Systems had supplied Nigeria with an espionage an program.",
+                    "text": "Israel-based firms lunched campaigns to spread disinformation targeting the Nigerian 2019 presidential election.",
+                    "source": "The Associated Press. (2019, May 17). <a href=\"https://www.haaretz.com/israel-news/2019-05-17/ty-article/israel-based-campaign-to-spread-disinformation-targeted-nigerian-election/0000017f-e0e9-df7c-a5ff-e2fbe0690000\" target=\"_blank\"> “Israel-based campaign to spread disinformation targeted Nigerian election, think tank says.”</a> Haaretz. Web. 08 Sep. 2025."
+                },
+                {
+                    "text": "Products of the Israeli surveillance firm Circles were sold in 2012 to the governors of Delta and Bayelsa, in 2015 election, the governor of Bayelsa used the capabilities to monitor his chief rival and his wife and aides, and in one case to locate and arrest a well-known critic of the regime. In 2013, the Israeli firm Elbit Systems had supplied Nigeria with an espionage program.",
                     "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
                 }
             ]
@@ -293,8 +296,8 @@ const data =
             "country": "Somalia",
             "desc": [
                 {
-                    "text": "Israel funded and trained the military repression of anti-colonial uprisings and/or dictatorship in Somalia.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 50-53. Print."
+                    "text": "Israel provided a counterinsurgency program to the Somali dictatorship in the 1980s",
+                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 74. Print."
                 }
             ]
         },
@@ -322,6 +325,11 @@ const data =
                 {
                     "text": "Starting in 1992, Israel sold arms and later provided training to Rwandan military and Hutu militia that in 1994 perpetrated genocide against the Tutsis. Israel continued to send millions of USD in arms even after the genocide was attracting international attention.",
                     "source": "+972 Magazine. (2019, May 21). <a href=\"https://www.972mag.com/rwanda-genocide-hutu-israel\" target=\"_blank\"> “How Israel helped prop up Rwanda’s Hutu regime before the genocide.”</a> Web. 14 Aug. 2025"
+                },
+                {
+                    "text": "The Israeli Pegasus spyware has been used against dissidents and activists since at least 2019.",
+                    "source": "The Pegasus Project (2021, July 19). <a href=\"https://www.occrp.org/en/project/the-pegasus-project/israeli-spy-tech-used-against-daughter-of-man-who-inspired-hotel-rwanda\" target=\"_blank\"> “Israeli Spy Tech Used Against Daughter of Man Who Inspired “Hotel Rwanda”.”</a> OCCRP. Web. 10 Sep. 2025"
+
                 }
             ]
         },
@@ -340,7 +348,11 @@ const data =
                 {
                     "text": "Despite going on the record to support the UN-imposed sanctions against Rhodesia (now Zimbabwe) in 1967, and through the late 1970s, Israel continued to maintain trade with the apartheid regime and provide it with arms, including Uzis and helicopters, in addition to helping Rhodesia manufacture its own submachine gun models called “Ruzis.” Israel helped Rhodesia fortify its borders by installing a land-mine belt that was 500 miles long.",
                     "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 63. Print."
-                }
+                },
+                {
+                    "text": "Until at least 2020, the Zimbabwean government was a client of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to snoop on calls, texts, and the location of phones.",
+                    "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab. Web. 10 Sep. 2025."
+                },
             ]
         },
         {
@@ -349,6 +361,95 @@ const data =
                 {
                     "text": "In 2018, an Israeli investigation revealed that the Israeli subsidiary of Verint sold systems relating to communications interception to Swaziland, which has gained the dubious distinction of being “the last absolutist monarchy in Africa”.",
                     "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Liberia",
+            "desc": [
+                {
+                    "text": "Israel armed and trained the murderous dictatorship in Liberia and systematically bribed top officials in order to obtain their diplomatic support.",
+                    "source": "Mack, E. (2023, April 27). <a href=\"https://www.haaretz.com/00000187-c368-d554-a5b7-df6c62ae0000\" target=\"_blank\"> “Weapons, training and cash: Israel bribed Liberian officials for years, cables reveal.”</a> Haaretz. Web. 08 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Lesotho",
+            "desc": [
+                {
+                    "text": "Israel sold arms and trained death squads for the dictaroship since the mid 1970s.",
+                    "source": "Mack, E. (2025, February 01). <a href=\"https://www.the7eye.org.il/542204\" target=\"_blank\"> “How Israel helped the dictatorial regime in Lesotho.”</a> The Seventh Eye. Web. 10 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Ghana",
+            "desc": [
+                {
+                    "text": "Ghana spent more than US$5m in 2016 on Pegasus spyware from Israeli company NSO Group. Ghana has also acquired spyware from Israeli companies Quadream and Mer Group and Phone-Cracking software from Cellebrite.",
+                    "source": "Roberts, T., et al. (2023, septembre 25). <a href=\"https://hdl.handle.net/20.500.12413/18120\" target=\"_blank\"> “Mapping the Supply of Surveillance Technologies to Africa: Case Studies from Nigeria, Ghana, Morocco, Malawi, and Zambia.”</a> The Institute of Development Studies. Web. 10 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Sierra Leone",
+            "desc": [
+                {
+                    "text": "Sierra Leonean officials paid at least US$5 million to cyber intelligence groups, including the Israeli-based Cognyte Technologies Limited for cyber intelligence services and tools that were mostly used to target political opponents of the Maada Bio administration.",
+                    "source": "Anderson M., et al. (2023, October 8). <a href=\"https://africanistpress.com/hired-surveillance-sierra-leone-officials-pay-cyber-intel-groups-to-target-journalists-political-opponents/\" target=\"_blank\"> “Hired Surveillance: Sierra Leone officials pay cyber intel groups to target journalists, political opponents.”</a> AFRICANIST PRESS. Web. 10 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Burkina Faso",
+            "desc": [
+                {
+                    "text": "In 2020, an Israeli influence company orchestrated a manipulation campaign targeting the International Committee of the Red Cross (ICRC) in Burkina Faso, presumably at the request of the Burkinabe government.",
+                    "source": "Andrzejewski C., (2023, Feb 16). <a href=\"https://forbiddenstories.org/percepto-icrc-burkina/\" target=\"_blank\"> ““The masters of perception,” Burkina Faso and the International Committee of the Red Cross: anatomy of a manipulation campaign.”</a> Forbidden Stories. Web. 10 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Zambia",
+            "desc": [
+                {
+                    "text": "Until at least 2020, the Zambian government was a client of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to      snoop on calls, texts, and the location of phones.",
+                    "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab. Web. 10 Sep. 2025."
+                },
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Zambia between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group’s Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab. Web. 10 Sep. 2025."
+                },
+            ]
+        },
+        {
+            "country": "Burundi",
+            "desc": [
+                {
+                    "text": "Israel provided training and military aid to the Tutsi regime before and during the 1972 Hutu massacares in which over 100,000 people were killed despite being well aware of the ethnic violence in the country.",
+                    "source": "Mack, E. (2024, May 2). <a href=\"https://www.haaretz.com/israel-news/2024-05-02/ty-article-opinion/.highlight/genocide-in-rwanda-massacre-in-burundi-its-business-as-usual-for-israel/0000018f-3ad3-d414-a5bf-bbf752870000\" target=\"_blank\"> “Genocide in Rwanda? Massacre in Burundi? It's Business as Usual for Israel.”</a> Haaretz. Web. 08 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Kenya",
+            "desc": [
+                {
+                    "text": "Until at least 2020, the Kenyan government was a client of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to snoop on calls, texts, and the location of phones.",
+                    "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab. Web. 10 Sep. 2025."
+                },
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Kenya between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group’s Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab. Web. 10 Sep. 2025."
+                },
+                {
+                    "text": "Tear gas made in israel has been used to violently suppress protests in 2024 in which 60 civilans where killed.",
+                    "source": "Amit, H. (2025, May 12). <a href=\"https://www.haaretz.com/israel-news/2025-05-12/ty-article/.premium/tear-gas-made-by-israeli-company-has-been-used-to-violently-suppress-protests-in-africa/00000196-c409-dce0-abfe-ff7d2e2f0000\" target=\"_blank\"> “Tear gas made in Israel has been used to violently suppress protests in Africa.”</a> Haaretz. Web 10 Sep. 2025."
+                },
+                {
+                    "text": "ISrael maintained close relatioships with Kenya since the 1960s and during the dictatroship years. It also provided arms and taringing to its army.",
+                    "source": "DIMSE. <a href=\"https://dimse.info/kenya/\" target=\"_blank\"> “The Database of Israeli Military and Security Export.”</a> Web. 10 Sep. 2025."
+
                 }
             ]
         },
@@ -468,7 +569,7 @@ const data =
                 },
                 {
                     "text": "Israeli surveillance firm Cellebrite sold spy-tech to Duterte's government which is infamous for its extrajudicial killings as part of thier war against drugs, as well as the assasasination and persecution of journaslists and activsts.",
-                    "source": "Yaron, O. (2022a, January 17). <a href=\"https://www.haaretz.com/israel-news/tech-news/2022-01-17/ty-article/.premium/israels-cellebrite-phone-hacking-tech-is-helping-dutertes-heros/0000017f-e13d-d7b2-a77f-e33f2cac0000\" target=\"_blank\"> “Israeli phone-hacking tech is helping Duterte’s war on drugs, media.”</a> Haaretz.com. Web. 14 Aug. 2025."
+                    "source": "Yaron, O. (2022, January 17). <a href=\"https://www.haaretz.com/israel-news/tech-news/2022-01-17/ty-article/.premium/israels-cellebrite-phone-hacking-tech-is-helping-dutertes-heros/0000017f-e13d-d7b2-a77f-e33f2cac0000\" target=\"_blank\"> “Israeli phone-hacking tech is helping Duterte’s war on drugs, media.”</a> Haaretz.com. Web. 14 Aug. 2025."
                 }
             ]
         },
