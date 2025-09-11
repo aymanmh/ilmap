@@ -9,7 +9,7 @@ const closeBtn = document.querySelector(".close-btn");
 //const zoomValueOutput = document.querySelector(".zoom-value");
 const countryNameOutput = document.querySelector(".side-panel .container .country-name");
 
-
+const myTooltip = document.getElementById('myTooltip');
 
 var dataById = {};
 
@@ -62,20 +62,26 @@ countries.forEach(country => {
 
             document.getElementsByClassName("textList")[0].innerHTML = list;
             document.getElementsByClassName("sourcesList")[0].innerHTML = sources;
-
+            myTooltip.innerText = "";
+            myTooltip.style.visibility = 'hidden';
+            myTooltip.style.opacity = '0';
 
         });
     }
 
-    country.addEventListener("mouseenter", function () {
+    country.addEventListener("mouseenter", function (event) {
         const countryName = [...country.classList].join(' ');
         if (dataById[countryName]) {
             const selector = "[class=\"" + countryName + "\"]"
             //select all pieces of land that belongs to the same country (avg paths)
             const matchingElements = document.querySelectorAll(selector);
             matchingElements.forEach(el => el.style.fill = "#a37dce")
-
         }
+        myTooltip.innerText = countryName;
+        myTooltip.style.left = `${event.clientX + 10}px`; // Adjust offset as needed
+        myTooltip.style.top = `${event.clientY + 10}px`;  // Adjust offset as needed
+        myTooltip.style.visibility = 'visible';
+        myTooltip.style.opacity = '0.8';
 
     });
 
@@ -85,6 +91,9 @@ countries.forEach(country => {
             const selector = "[class=\"" + countryName + "\"]"
             const matchingElements = document.querySelectorAll(selector);
             matchingElements.forEach(el => el.style.fill = "#443d4b");
+            myTooltip.innerText = "";
+            myTooltip.style.visibility = 'hidden';
+            myTooltip.style.opacity = '0';
         }
     });
 

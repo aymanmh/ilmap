@@ -153,6 +153,24 @@ const data =
             ]
         },
         {
+            "country": "Sudan",
+            "desc": [
+                {
+                    "text": "In 2022 the Israeli spyware tycoon Tal Dilian (an ex-commander of a top secret Israeli intel unit) sold surveillance tech to the notorious Sudanese militia Rapid Support Forces that is accused of crimes against humanity.",
+                    "source": "Telloglou T., et al. (2022, November 3). <a href=\"https://www.europeanpressprize.com/article/flight-of-the-predator-jet-linked-to-israeli-spyware-tycoon-delivers-surveillance-tech-from-the-eu-to-notorious-sudanese-militia/\" target=\"_blank\"> “Flight of the Predator: Jet linked to Israeli spyware tycoon delivers surveillance tech from the EU to notorious Sudanese militia.”</a> Co-published by Lighthouse Report, Haaretz and Inside Story. Web. 14 Sep. 2025."
+                }
+            ]
+        },
+                {
+            "country": "Chad",
+            "desc": [
+                {
+                    "text": "Since the mid 2000s Israel is a significant supplier of arms to the war torn country. In 2006 Israel supplied modern small arms to Chad, some of which later turned up in Darfur during the genocide.",
+                    "source": "Wezeman P. (2009, August). <a href=\"https://www.sipri.org/publications/2009/sipri-background-papers/arms-flows-conflict-chad\" target=\"_blank\"> “Arms Flows to the Conflict in Chad.”</a> SIPRI. Web. 14 Sep. 2025."
+                }
+            ]
+        },
+        {
             "country": "Mozambique",
             "desc": [
                 {
@@ -410,6 +428,28 @@ const data =
             ]
         },
         {
+            "country": "Cameroon",
+            "desc": [
+                {
+                    "text": "Israel maintined close relationships with the Cameroonean dictator Paul Biya since the mid 1980s, providing arms and training for his militray. Israel also created and trained his Presidential Guard.",
+                    "source": "Foute F. (2023, October 31). <a href=\"https://www.theafricareport.com/326317/paul-biya-israels-strongest-ally-in-africa/\" target=\"_blank\"> “Paul Biya, Israel''s strongest ally in Africa?.”</a> The African Report. Web. 10 Sep. 2025."
+                },
+                {
+                    "text": "Israeli mercenaries (former Israeli army officers) are involved in the training, command and supply of weapons to the Rapid Intervention Battalion (RIB), Paul Biya's private army, noturiouse for its gross human rights abuses, including killings, torture, burning of homes and sexual violence. the unit was created by the Israeli defence attaché to Cameroon in 1999.",
+                    "source": "Van Der Weide Y. & Freudenthal E. (2020, June 23). <a href=\"https://africanarguments.org/2020/06/making-a-killing-israeli-mercenaries-in-cameroon/\" target=\"_blank\"> “Making a killing: Israeli mercenaries in Cameroon.”</a> African Arguments. Web. 10 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Burkina Faso",
+            "desc": [
+                {
+                    "text": "In 2020, an Israeli influence company orchestrated a manipulation campaign targeting the International Committee of the Red Cross (ICRC) in Burkina Faso, presumably at the request of the Burkinabe government.",
+                    "source": "Andrzejewski C., (2023, Feb 16). <a href=\"https://forbiddenstories.org/percepto-icrc-burkina/\" target=\"_blank\"> ““The masters of perception,” Burkina Faso and the International Committee of the Red Cross: anatomy of a manipulation campaign.”</a> Forbidden Stories. Web. 10 Sep. 2025."
+                }
+            ]
+        },
+        {
             "country": "Zambia",
             "desc": [
                 {
@@ -432,6 +472,37 @@ const data =
             ]
         },
         {
+            "country": "Libya",
+            "desc": [
+                {
+                    "text": "Israel provided training and weapons to the Libyan warlord Khalifa Haftar who is notoriouse for severe human rights abuses and human traficking, despite the country being under arms embargo by the UN.",
+                    "source": "Melman, Y. (2020, April 21). <a href=\"https://www.middleeasteye.net/news/israel-little-known-support-haftar-war-libya\" target=\"_blank\"> “Israel’s little-known support for Haftar’s war in Libya.”</a> Middle East Eye. Web. 08 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Egypt",
+            "desc": [
+                {
+                    "text": "Israeli spyware was sold to the Egyptian regime and was used at least against an MP and an opposition leader.",
+                    "source": "Benjakob, O. (2023, October 5). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2023-10-05/ty-article/.premium/investigation-how-israeli-spyware-was-sold-to-egypt-and-pitched-to-qatar-and-saudi-arabia/0000018a-ff33-d037-a9ae-fffffdb00000\" target=\"_blank\"> “Investigation: How Israeli spyware was sold to Egypt and pitched to Qatar and Saudi Arabia.”</a> Haaretz. Web. 08 Sep. 2025."
+                }
+            ]
+        },
+        {
+            "country": "Morocco",
+            "desc": [
+                {
+                    "text": "Human rights activists from Morocco have been targeted with the infamous Pegasus spyware produced by the Israeli company NSO Group since at least October 2017.",
+                    "source": "Amnesty International. (2023, August 10). <a href=\"https://www.amnesty.org/en/latest/research/2019/10/morocco-human-rights-defenders-targeted-with-nso-groups-spyware/\" target=\"_blank\"> “Morocco: Human Rights Defenders Targeted with NSO Group's Spyware.”</a> Web. 08 Sep. 2025."
+                },
+                {
+                    "text": "Israel has been arming the regime, known for its human rights abuses, since the 1970s, some arms have been obtained to be used in Western Sahara.",
+                    "source": "Hempel, J. (2021, March 18). <a href=\"The arms deals Morocco and Israel don't want you to know about.\" target=\"_blank\"> “https://www.haaretz.com/israel-news/2021-03-18/ty-article-opinion/.premium/the-arms-deals-morocco-and-israel-dont-want-you-to-know-about/0000017f-e1fb-d804-ad7f-f1fbf4550000”</a> Haaretz.com. Web. 08 Sep. 2025."
+                }
+            ]
+        },
+        {
             "country": "Kenya",
             "desc": [
                 {
@@ -447,7 +518,7 @@ const data =
                     "source": "Amit, H. (2025, May 12). <a href=\"https://www.haaretz.com/israel-news/2025-05-12/ty-article/.premium/tear-gas-made-by-israeli-company-has-been-used-to-violently-suppress-protests-in-africa/00000196-c409-dce0-abfe-ff7d2e2f0000\" target=\"_blank\"> “Tear gas made in Israel has been used to violently suppress protests in Africa.”</a> Haaretz. Web 10 Sep. 2025."
                 },
                 {
-                    "text": "ISrael maintained close relatioships with Kenya since the 1960s and during the dictatroship years. It also provided arms and taringing to its army.",
+                    "text": "Israel maintained close relatioships with Kenya since the 1960s and during the dictatroship years. It also provided arms and taringing to its army.",
                     "source": "DIMSE. <a href=\"https://dimse.info/kenya/\" target=\"_blank\"> “The Database of Israeli Military and Security Export.”</a> Web. 10 Sep. 2025."
 
                 }
@@ -555,7 +626,7 @@ const data =
             "country": "Lebanon",
             "desc": [
                 {
-                    "text": "During the Lebanese civil war, Israel supported the far right fascist party the Lebanese Phalanges. From 1976 on, hundreds of Phalangist fighters were trained in Israel alongside Israeli paratroopers. Between 1975 and 1977 Israel spent $150 million on military supplies for the Phalangist militia. Throughout the 1980a and 90s Israel supported a puppet organization called the South Lebanon Army.",
+                    "text": "During the Lebanese civil war, Israel supported the far right fascist party the Lebanese Phalanges. From 1976 on, hundreds of Phalangist fighters were trained in Israel alongside Israeli paratroopers. Between 1975 and 1977 Israel spent $150 million on military supplies for the Phalangist militia. Throughout the 1980s and 90s Israel supported a puppet organization called the South Lebanon Army.",
                     "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 20-12 . Print."
                 }
             ]
@@ -655,7 +726,7 @@ const data =
             "country": "Azerbaijan",
             "desc": [
                 {
-                    "text": "In 2018, an Israeli invistigation revelaed that the Israeli subsidiary of Verint helped to create a system to track LGBT people baed on social media usage. In 2017, few years after the system began being used, a report revealed the arrest and torture by Azeri police of 45 gay men and transgender women.",
+                    "text": "In 2018, an Israeli invistigation revelaed that the Israeli subsidiary of Verint helped to create a system to track LGBT people based on social media usage. In 2017, few years after the system began being used, a report revealed the arrest and torture by Azeri police of 45 gay men and transgender women.",
                     "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com. Web. 14 Aug. 2025."
                 },
                 {
@@ -696,6 +767,15 @@ const data =
                 {
                     "text": " Israeli militray exports became crucial for China's military development during the 1990s. and since the early 2000s the trade expanded beyond arms making china Israel's second-largest trading partner.",
                     "source": "Li, P. (2023, October 21). <a href=\"https://jacobin.com/2023/10/china-israel-repression-military-trade-palestine-technology\" target=\"_blank\"> “China and Israel have a long history of cooperating in repression.”</a> Jacobin. Web. 14 Aug. 2025."
+                }
+            ]
+        },
+                {
+            "country": "Sadui Arabia",
+            "desc": [
+                {
+                    "text": "Israel provided training and sold arms to Serbian forces during the genocide in Bosnia in the 1990s long after the UN Security Council placed an arms embargo on various parts of the former Yugoslavia. In 2016 the Supreme Court in Israel ruled against exposing Israel's role in Bosnian genocide citing potential damage to Israel's foreign relations.",
+                    "source": "Brown, J. (2016, December 6). <a href=\"https://www.972mag.com/israels-involvement-in-bosnian-genocide-to-remain-under-wraps/\" target=\"_blank\"> “Supreme Court rules against exposing Israel's role in Bosnian genocide.”</a> +972 Magazine. Web. 14 Aug. 2025."
                 }
             ]
         },
