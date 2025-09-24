@@ -15,7 +15,7 @@ var dataById = {};
 
 data.forEach(function (d) {
     dataById[d.country] = {
-        desc: structuredClone(d.desc),
+        items: structuredClone(d.items),
     }
 });
 
@@ -51,7 +51,7 @@ countries.forEach(country => {
                 list = "<ul>";
                 sources = "<details> <summary>Sources</summary> <ol>"
                 let count = 1;
-                for (let i of dataById[clickedCountryName].desc) {
+                for (let i of dataById[clickedCountryName].items) {
                     list += `<li>${i.text}<sup>${count++}</sup></li>`;
                     sources += `<li>${i.source}</li>`;
                 }
