@@ -306,6 +306,3 @@ svg.addEventListener('mouseup', () => {
 svg.addEventListener('mouseleave', () => {
     isPanning = false; // Stop panning if mouse leaves the SVG area
 });
-
-
-
