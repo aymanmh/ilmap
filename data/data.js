@@ -131,6 +131,28 @@ const data =
             ]
         },
         {
+            "country": "Trinidad and Tobago",
+            "items": [
+                {
+                    "text": "In 2009, a wiretapping scandal involving Israeli Verint-supplied equipment saw a total of 53 people, including politicians and journalists, were illegally monitored.",
+                    "source": "Bajak, F., & Gillum, J. (2016, August 3). <a href=\"http://www.timesofisrael.com/with-cheap-israeli-spy-tools-nations-are-monitoring-everyone/\" target=\"_blank\"> “With cheap Israeli spy tools, nations are 'monitoring everyone'.”</a> The Times of Israel."
+                },
+                {
+                    "text": "In 2021, a Citizen LAb investigation uncovered infrastructure in the country that cloud be used by the Israeli spyware firm Cytrox, while no victims were found, the opposition claimed the government is using spyware against journalists and activists.",
+                    "source": "Benjakob, O. (2022, April 12). <a href=\"Xhttps://www.haaretz.com/israel-news/tech-news/2022-04-12/ty-article/.premium/pegasus-in-the-caribbean-israeli-spyware-reportedly-used-in-trinidad-and-tobago/00000180-5bd9-df19-a7f3-dbddcf0b0000\" target=\"_blank\"> “Not just NSO: Was another Israeli spyware used in the Caribbean?”</a> Haaretz."
+                }
+            ]
+        },
+        {
+            "country": "Jamaica",
+            "items": [
+                {
+                    "text": "Since 2024, Israel became a major supplier of surveillance technology to Jamaica, raising concerns by opposition that the technology could be used against the government opponents.",
+                    "source": " WiredJa News Team. (2025, July 6). <a href=\"https://wiredja.com/index.php/categories/newsberg/news/jamaicas-digital-entanglement-with-israeli-intelligence-operations\" target=\"_blank\"> “JAMAICA'S Digital Entanglement with Israeli Intelligence Operations.”</a> WiredJa."
+                }
+            ]
+        },
+        {
             "country": "Colombia",
             "items": [
                 {
@@ -148,15 +170,72 @@ const data =
             ]
         },
         {
+            "country": "Ecuador",
+            "items": [
+                {
+                    "text": "Israel provided training and support for the military junta of 1963 and was a major supplier of arms to the military regime in the 1970s.",
+                    "source": "Bahbah, B. (1986). Israel and Latin America: The military connection. Institute for Palestine Studies. P.113-123"
+                },
+                {
+                    "text": "The Israeli-American firm Verint is supplying Ecuador with mass surveillance technologies despite them being abused by previous governments.",
+                    "source": "Flores, C., & Nagarajan, A. (2022, July 9). <a href=\"https://goodmenproject.com/featured-content/we-are-living-under-constant-video-surveillance-in-ecuador-says-activist-anais-cordova/\" target=\"_blank\"> “'We Are Living Under Constant Video Surveillance in Ecuador,' Says Activist Anaís Córdova.”</a> The Good Men Project."
+                }
+            ]
+        },
+        {
+            "country": "Peru",
+            "items": [
+                {
+                    "text": "In 2015 the Israeli-American firm Verint supplied Peru with a mass surveillance program that monitors and intercepts communications.",
+                    "source": "Bajak, F., & Gillum, J. (2016, August 3). <a href=\"http://www.timesofisrael.com/with-cheap-israeli-spy-tools-nations-are-monitoring-everyone/\" target=\"_blank\"> “With cheap Israeli spy tools, nations are 'monitoring everyone'.”</a> The Times of Israel."
+                }
+            ]
+        },
+        {
+            "country": "Bolivia",
+            "items": [
+                {
+                    "text": "Israel supported the military dictatorships in Bolivia between 1964 to 1982. According to documents from the Israeli archive, Israel knew of the dictatorships' atrocities and of the presence of Nazi officers within their ranks.",
+                    "source": "Eitay, M. (2025, November 9). <a href=\"https://thewire.in/world/israeli-history-repeats-itself-in-bolivia\" target=\"_blank\"> “Israeli History Repeats Itself in Bolivia.”</a> The Wire."
+
+                }
+            ]
+        },
+        {
+            "country": "Paraguay",
+            "items": [
+                {
+                    "text": "Israel provided training and support to the Stroessner dictatorship, during a time which the country became a haven for Nazi war criminals.",
+                    "source": "Mack, E. (2018, May 27). <a href=\"https://www.972mag.com/with-its-new-embassy-in-jerusalem-bibi-will-ignore-paraguays-nazi-past/\" target=\"_blank\"> “With its new embassy in Jerusalem, Bibi will ignore Paraguay's Nazi past.”</a> +972 Magazine."
+
+                },
+                {
+                    "text": "The Israeli firms Septier and Cellbrite have provided mass surveillance technologies to the government of Paraguay.",
+                    "source": "Ramírez, A. (2025, May 19). <a href=\"https://www.tedic.org/en/imsi-catchers-in-paraguay-the-invisible-surveillance-threatening-your-right-to-protest/\" target=\"_blank\"> “IMSI catchers in Paraguay: The invisible surveillance threatening your right to protest.”</a> TEDIC."
+
+                }
+            ]
+        },
+        {
+            "country": "Uruguay",
+            "items": [
+                {
+                    "text": "Between 1972 and 1980, Israel supported the Uruguay dictatorship and helped it manipulate public opinion and cover up antisemitism and Nazi sympathies within its repressive apparatus.",
+                    "source": "Leibner, G. (2024). <a href=\"https://doi.org/10.1080/14682745.2024.2331200\" target=\"_blank\"> “The political partnership between Israel and authoritarian Uruguay, 1972-1980.”</a> Cold War History."
+
+                }
+            ]
+        },
+        {
             "country": "Chile",
             "items": [
                 {
-                    "text": "The Pinochet dictatorship of 1973-1990, that murdered, raped and tortured opposition in Chile, including trade unionists and socialists, bought Israel's weaponry for crowd control—including vehicles fitted with water-cannons.",
-                    "source": "<a href=\"http://www.highbeam.com/doc/1G1-15202723.html\" target=\"_blank\"> “Israeli success at Chilean military exhibition.”</a> Israel Business Today. Highbeam. 15 April 1994. Web. 9 Jan. 2010***."
+                    "text": "Between 1973 and 1991, Israel sold weapons and training to Pinochet's dictatorship in Chile, a regime that committed crimes against humanity, disappeared thousands, tortured tens of thousands, and maintained ties with Nazi war criminals.",
+                    "source": "Mack, E. (2017, August 27). <a href=\"https://www.972mag.com/forget-trump-israels-sordid-history-of-supporting-dictatorships/\" target=\"_blank\"> “Forget Trump: Israel's sordid history of supporting dictatorships.”</a> +972 Magazine."
                 },
                 {
-                    "text": "Through the 1980's Israel provided surveillance to the Pinochet regime.",
-                    "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. p.100 Print."
+                    "text": "The Israeli firm Cellebrite provided Chilean Police with its phone cracking tools in 2021",
+                    "source": "Boguslavsky, E. (2021, January 24). <a href=\"https://www.israeldefense.co.il/en/node/47898\" target=\"_blank\"> “Israel's Cellebrite to provide Chilean Police with data extraction software.”</a> Israel Defense."
                 }
             ]
         },
@@ -177,12 +256,29 @@ const data =
             "country": "Brazil",
             "items": [
                 {
-                    "text": "Brazil is the world's fifth biggest importer of Israeli weapons.",
-                    "source": "<a href=\"https://wri-irg.org/en/story/2015/case-brazil-israels-experience-repression-palestinian-people-goes-global\" target=\"_blank\"> “The case of Brazil: Israel’s experience of repression of the Palestinian people goes global.”</a> (2015, April 27). War Resisters’ International."
+                    "text": " Israel helped prop up the Brazilian junta (1964-1985), supplied it with weapons and military expertise, and even signed a number of nuclear agreements.",
+                    "source": "Mack, E. (2018, November 18). <a href=\"https://www.972mag.com/hope-regime-lasts-israels-cozy-ties-brazils-military-dictatorship/\" target=\"_blank\"> “When Israel enjoyed cozy ties with Brazil's military dictatorship.”</a> +972 Magazine."
                 },
                 {
-                    "text": "The militarized police forces in São Paulo and Rio de Janeiro are using Israeli assault rifles in their anti-favella campaign.",
-                    "source": "<a href=\"https://www.bdsmovement.net/solidarity-with-brazils-favelas\" target=\"_blank\"> “Palestinians Stand in Solidarity with the Oppressed in Brazil's Favelas.”</a> (2023, August 8). BDS Movement. "
+                    "text": "Israel is a major supplier of weapons and training to Brazil, a country with severe problem of armed violence by police, militias, and armed criminal gangs.",
+                    "source": "CAAT Team. <a href=\"https://caat.org.uk/data/countries/brazil/brazils-arms-industry-links-with-israel/\" target=\"_blank\"> “Brazil’s arms industry links with Israel.”</a> (2025, October 29). Campaign Against Arms Trade."
+                },
+                {
+                    "text": "From 2019 to 2021 the Bolsonaro government used the Israeli surveillance software FirstMile to spread disinformation and illegally monitor politicians, judges, ordinary citizens and journalists.",
+                    "source": "Duchiade, A. (2025, July 16). <a href=\"https://latamjournalismreview.org/articles/brazils-intelligence-agency-spied-on-reporters-to-discredit-them-police-say/\" target=\"_blank\"> “Brazil's intelligence agency spied on reporters to discredit them, police say.”</a> LatAm Journalism Review. "
+                },
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Brzil between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Venezuela",
+            "items": [
+                {
+                    "text": "Israeli Firm Cellebrite Sold Phone-hacking Tech to Venezuela.",
+                    "source": "Yaron, O. (2020, September 10). <a href=\"https://www.haaretz.com/israel-news/tech-news/2020-09-10/ty-article/.premium/despite-sanctions-israeli-firm-sold-phone-hacking-tech-to-venezuela/0000017f-f355-df98-a5ff-f3fdba8c0000\" target=\"_blank\"> “ Despite sanctions, Israeli firm Cellebrite sold phone-hacking tech to Venezuela.”</a> Haaretz."
                 }
             ]
         },
@@ -195,7 +291,11 @@ const data =
                 },
                 {
                     "text": "Since South Sudan's independence, Israel has continuously sold it weapons, military training, homeland security and surveillance technology that are being used to commit war crimes and potential crimes against humanity",
-                    "source": "+972 Magazine. (2015, May 29). <a href=\"https://www.972mag.com/the-untold-story-of-israeli-military-exports-to-south-sudan\" target=\"_blank\"> “The untold story of Israeli military exports to South Sudan. ”</a>"
+                    "source": "+972 Magazine. (2015, May 29). <a href=\"https://www.972mag.com/the-untold-story-of-israeli-military-exports-to-south-sudan\" target=\"_blank\"> “The untold story of Israeli military exports to South Sudan.”</a>"
+                },
+                {
+                    "text": "In 2015, an Israeli security firm ran by a retired Israeli army general used a farming project as a coverup to sell US$150 million in weapons to both side of the civil war.",
+                    "source": "Mednick, S. (2019, July 17). <a href=\"https://www.occrp.org/en/investigation/sprouting-weapons-of-war\" target=\"_blank\"> “Sprouting Weapons of War.”</a> OCCRP."
                 }
             ]
         },
@@ -345,7 +445,7 @@ const data =
             "items": [
                 {
                     "text": "Israel provided political and military support to both sides during the brutal Nigerian-Biafran War in the late 1960s where over 1 million people died.",
-                    "source": "Mack, E. (2023, September 28). <a href=\"https://www.haaretz.com/israel-news/2023-09-28/ty-article-magazine/.highlight/israels-double-game-in-the-nigerian-civil-war-revealed-in-newly-declassified-documents/0000018a-dcfe-dfee-a9ee-dffe3ab00000\" target=\"_blank\"> “Arms, massacres and denials: Israel’s Double Game between Biafra and Nigeria’s government Revealed in Newly Declassified Documents.”</a> Haaretz."
+                    "source": "Mack, E. (2023, September 28). <a href=\"https://www.haaretz.com/israel-news/2023-09-28/ty-article-magazine/.highlight/israels-double-game-in-the-nigerian-civil-war-revealed-in-newly-declassified-documents/0000018a-dcfe-dfee-a9ee-dffe3ab00000\" target=\"_blank\"> “Arms, massacres and denials: Israel's Double Game between Biafra and Nigeria's government Revealed in Newly Declassified Documents.”</a> Haaretz."
                 },
                 {
                     "text": "Israel-based firms launched campaigns to spread disinformation targeting the Nigerian 2019 presidential election.",
@@ -354,6 +454,10 @@ const data =
                 {
                     "text": "Products of the Israeli surveillance firm Circles were sold in 2012 to the governors of Delta and Bayelsa, in 2015 election, the governor of Bayelsa used the capabilities to monitor his chief rival and his wife and aides, and in one case to locate and arrest a well-known critic of the regime. In 2013, the Israeli firm Elbit Systems had supplied Nigeria with an espionage program.",
                     "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com."
+                },
+                {
+                    "text": "The Israeli firm Cellbrite products were used against journalists in Nigeria.",
+                    "source": "Rozen, J. (2019, October 22). <a href=\"https://cpj.org/2019/10/nigerian-military-target-journalists-phones-forensic-search/\" target=\"_blank\"> “Nigerian military targeted journalists' phones, computers with “forensic search” for sources.”</a> Committee to Protect Journalists."
                 }
             ]
         },
@@ -381,6 +485,10 @@ const data =
                 {
                     "text": "From the 1960s to 1980s, Israel provided training to tyrant Dr. Banda's paramilitary group the Malawi Young Pioneers that was responsible for murdering political opponents, terrorizing workers by flogging, and torturing opposition.",
                     "source": "Shahak, Israel. “Israel's Global Role: Weapons for Repression,” Studies in Geophysical Optics and Remote Sensing. Association of Arab-American University Graduates, 4.4 (1982): Print; Selfa, Lance. <a href=\"https://isreview.org/issues/04/Israel_watchdog\" target=\"_blank\"> “Israel: The U. S. Watchdog.”</a>  International Socialist Review. 4 (1998) Web. 13. Aug. 2025."
+                },
+                {
+                    "text": "In 2024, the Malawian authorities had obtained phone cracking tools from the Israeli firm Cellebrite and possibly used it against journalists.",
+                    "source": "CPJ Team, (2024, March 8). <a href=\"https://cpj.org/2024/03/malawi-police-seize-equipment-from-journalists-amid-fake-facebook-page-investigation/\" target=\"_blank\"> “Malawi police seize equipment from journalists amid 'fake' Facebook page investigation.”</a> Committee to Protect Journalists."
                 }
             ]
         },
@@ -418,6 +526,15 @@ const data =
                     "text": "Until at least 2020, the Zimbabwean government was a client of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to snoop on calls, texts, and the location of phones.",
                     "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab."
                 },
+            ]
+        },
+        {
+            "country": "Tanzania",
+            "items": [
+                {
+                    "text": "In 2018 the Tanzanian authorities used Israeli technology (believed to be Cellebrite) to extract informations from the phones of two Commite to Protect Journalists staff.",
+                    "source": "Quintal, A. (2018, November 13). <a href=\"https://www.dailymaverick.co.za/article/2018-11-13-my-nasty-encounter-with-tanzanian-repression/\" target=\"_blank\"> “My nasty encounter with Tanzanian repression.”</a> Daily Maverick."
+                }
             ]
         },
         {
@@ -679,6 +796,10 @@ const data =
                 {
                     "text": "An investigation led by Amnesty International's Security Lab has revealed that in recent years Indonesia, which has no diplomatic ties with Israel, imported Israeli spy tech from at least four Israeli companies, Between January 2019 and May 2022, Amnesty International recorded at least 90 instances of digital harassment and other forms of digital attacks directed against civil society actors which resulted in at least 148 victims, including human rights defenders, activists, journalists, environmental activists, students, and protestors.",
                     "source": "Amnesty International's Security Lab. (2024, November 18).<a href=\"https://securitylab.amnesty.org/latest/2024/05/a-web-of-surveillance\" target=\"_blank\"> “A Web of Surveillance: Unravelling a murky network of spyware exports to Indonesia.”</a> Amnesty International."
+                },
+                {
+                    "text": "A cybersecuity resaerch group uncovered infrastructure linked to the Israeli spyware vendor Candiru that was active in indonesia till 2024.",
+                    "source": "Insikt Group. (2025, June 26). <a href=\"https://www.recordedfuture.com/research/tracking-candirus-devilstongue-spyware\" target=\"_blank\"> “Tracking Candiru's DevilsTongue Spyware in Multiple Countries.”</a>"
                 }
             ]
         },
@@ -688,6 +809,19 @@ const data =
                 {
                     "text": "During the Lebanese civil war, Israel supported the far right fascist party the Lebanese Phalanges. From 1976 on, hundreds of Phalangist fighters were trained in Israel alongside Israeli paratroopers. Between 1975 and 1977 Israel spent $150 million on military supplies for the Phalangist militia. Throughout the 1980s and 90s Israel supported a puppet organization called the South Lebanon Army.",
                     "source": "Beit-Hallahmi, Benjamin. The Israel Connection: Whom Israel Arms and Why. New York: Pantheon Books, 1987. 20-12 . Print."
+                }
+            ]
+        },
+                {
+            "country": "Jordan",
+            "items": [
+                {
+                    "text": "A Citzen Lab investigation has uncovered the use of the Israeli firm Celbrite products since at least 2020 in criminal prosecutions against activists and members of Jordanian civil society, specially Gaza war protesters, in a manner that does not comply with human rights treaties that Jordan has ratified.",
+                    "source": "Al-Shawareb, K., et al., (2026, January 22). <a href=\"https://citizenlab.ca/research/from-protest-to-peril-cellebrite-used-against-jordanian-civil-society/\" target=\"_blank\"> “From Protest to Peril: Cellebrite Used Against Jordanian Civil Society.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "Since 2021, at least 35 individuals in Jordan have been targeted with Israeli firm NSO Group's Pegasus spyware, including  NGO representatives, activists, journalists, and human rights lawyers.",
+                    "source": "Access Now Team. (2024, February 1). <a href=\"https://www.accessnow.org/publication/between-a-hack-and-a-hard-place-how-pegasus-spyware-crushes-civic-space-in-jordan/\" target=\"_blank\"> “How Pegasus spyware crushes civic space in Jordan.”</a> Access Now."
                 }
             ]
         },
@@ -792,6 +926,10 @@ const data =
                 {
                     "text": "Starting in the second decade of the 21st century, Israel has been helping Azerbaijan commit war crimes and defeat the Armenians in Nagorno-Karabakh.",
                     "source": "Haaretz Editorial. (2023, September 26). <a href=\"https://www.haaretz.com/opinion/editorial/2023-09-27/ty-article-opinion/israels-fingerprints-are-all-over-the-ethnic-cleansing-in-nagorno-karabakh/0000018a-d331-d13d-a98f-dbb5028e0000\" target=\"_blank\"> “Israel's fingerprints are all over the ethnic cleansing in Nagorno-Karabakh.”</a> Haaretz.com."
+                },
+                {
+                    "text": "A cybersecuity resaerch group uncovered infrastructure linked to the Israeli spyware vendor Candiru.",
+                    "source": "Insikt Group. (2025, June 26). <a href=\"https://www.recordedfuture.com/research/tracking-candirus-devilstongue-spyware\" target=\"_blank\"> “Tracking Candiru's DevilsTongue Spyware in Multiple Countries.”</a>"
                 }
             ]
         },
@@ -801,15 +939,6 @@ const data =
                 {
                     "text": "Pegasus spyware targeted Armenian public figures, including journalists and human rights defenders, amid the conflict in Nagorno-Karabakh, between October 2020 and December 2022.",
                     "source": "Amnesty International's Security Lab . (2024, August 16). <a href=\"https://www.amnesty.org/en/latest/news/2023/05/armenia-azerbaijan-pegasus-spyware-targeted-armenian-public-figures-amid-conflict/\" target=\"_blank\"> “Armenia/Azerbaijan: Pegasus spyware targeted Armenian public figures amid conflict.”</a> Amnesty International."
-                }
-            ]
-        },
-        {
-            "country": "Bosnia and Herzegovina",
-            "items": [
-                {
-                    "text": "Israel provided training and sold arms to Serbian forces during the genocide in Bosnia in the 1990s long after the UN Security Council placed an arms embargo on various parts of the former Yugoslavia. In 2016 the Supreme Court in Israel ruled against exposing Israel's role in Bosnian genocide citing potential damage to Israel's foreign relations.",
-                    "source": "Brown, J. (2016, December 6). <a href=\"https://www.972mag.com/israels-involvement-in-bosnian-genocide-to-remain-under-wraps/\" target=\"_blank\"> “Supreme Court rules against exposing Israel's role in Bosnian genocide.”</a> +972 Magazine."
                 }
             ]
         },
@@ -844,12 +973,21 @@ const data =
                 {
                     "text": "Israel secretly authorized a group of cyber-surveillance firms to work for the government of Saudi Arabia despite international condemnation of the kingdom's abuse of surveillance software to crush dissent, even after the Saudi killing of the journalist Jamal Khashoggi in which the NSO spyware was used.",
                     "source": "Bergman R. and Mazzetti M. (2021, July 17). <a href=\"https://www.nytimes.com/2021/07/17/world/middleeast/israel-saudi-khashoggi-hacking-nso.html\" target=\"_blank\"> “Israeli Companies Aided Saudi Spying Despite Khashoggi Killing.”</a> The New York Times."
+                },
+                {
+                    "text": "A cybersecuity resaerch group uncovered infrastructure linked to the Israeli spyware vendor Candiru that is still active as of 2025.",
+                    "source": "Insikt Group. (2025, June 26). <a href=\"https://www.recordedfuture.com/research/tracking-candirus-devilstongue-spyware\" target=\"_blank\"> “Tracking Candiru's DevilsTongue Spyware in Multiple Countries.”</a>"
                 }
             ]
         },
         {
             "country": "United Arab Emirates",
             "items": [
+                
+                {
+                    "text": "The Israeli phone craking sompany Cellebrite signed a $3 million deal with a government agency in Abu Dhabi in October 2020.",
+                    "source": "Berkovitz, U. (2020, October 22). <a href=\"https://en.globes.co.il/en/article-cellebrite-1001346762\" target=\"_blank\"> “Israeli cyber intelligence co Cellebrite signs deal in UAE.”</a> Globes."
+                },
                 {
                     "text": "In July and August 2020, government operatives used NSO Group's Pegasus spyware to hack 36 personal phones belonging to journalists, producers, anchors, and executives at Al Jazeera.",
                     "source": "Marczak B., et al. (2020, December 20). <a href=\"https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/\" target=\"_blank\"> “The Great iPwn: Journalists Hacked with Suspected NSO Group iMessage 'Zero-Click' Exploit.”</a> The Citizen Lab."
@@ -867,6 +1005,46 @@ const data =
                     "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab."
                 },
 
+            ]
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "items": [
+                {
+                    "text": "Israel provided training and sold arms to Serbian forces during the genocide in Bosnia in the 1990s long after the UN Security Council placed an arms embargo on various parts of the former Yugoslavia. In 2016 the Supreme Court in Israel ruled against exposing Israel's role in Bosnian genocide citing potential damage to Israel's foreign relations.",
+                    "source": "Brown, J. (2016, December 6). <a href=\"https://www.972mag.com/israels-involvement-in-bosnian-genocide-to-remain-under-wraps/\" target=\"_blank\"> “Supreme Court rules against exposing Israel's role in Bosnian genocide.”</a> +972 Magazine."
+                }
+            ]
+        },
+        {
+            "country": "Canada",
+            "items": [
+                {
+                    "text": "Researchers uncovered infrastructres used by the Israeli (now American-owned) spyware firm Paragon in Canada, some potentially linked to the Canadian Ontario Provincial Police",
+                    "source": "Marczak B., et al. (2025, March 19). <a href=\"https://citizenlab.ca/research/a-first-look-at-paragons-proliferating-spyware-operations/\" target=\"_blank\"> “Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations.”</a> The Citizen Lab."
+                }
+            ]
+        },
+        {
+            "country": "United States",
+            "items": [
+
+                {
+                    "text": "Since 2002 thousands of American law enforcement officials have trained in Israel with Israeli police and military, according to a comprehinsive report by the Deadly Exchange campaign, these trainings solidify partnerships between the U.S. and Israeli governments to exchange methods of state violence and control, including mass surveillance, racial profiling, and suppression of protest and dissent.",
+                    "source": "Deadly Exchange Campaign. (2018, September). <a href=\"https://deadlyexchange.org/deadly-exchange-research-report/\" target=\"_blank\"> “Deadly Exchange: The Dangerous Consequences of US-Israel Law Enforcement Exchanges”</a>"
+                },
+                {
+                    "text": "A 2016 investigation revleaed that the US state police have spent millions on Israeli phone cracking technoogy.",
+                    "source": "Cox, J. (2016, December 21). <a href=\"https://www.vice.com/en/article/us-state-police-have-spent-millions-on-israeli-phone-cracking-tech-cellebrite/\" target=\"_blank\"> “US State Police Have Spent Millions on Israeli Phone Cracking Tech.”</a> VICE."
+                },
+                {
+                    "text": "In 2021, the Israeli firm NSO Group gave the U.S. government -under a secret contract- access to one of its spyware for tracking mobile phones days after the Biden administration blacklisted the company.",
+                    "source": "Mazzetti, M., & Bergman, R. (2023, April 2). <a href=\"https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html\" target=\"_blank\"> “How the U.S. Came to Use NSO Spyware It Was Trying to Kill.”</a> The New York Times."
+                },
+                {
+                    "text": "In 2025,  Immigration and Customs Enforcement (ICE) obtained access to Israeli-made spyware that can hack phones and encrypted apps.",
+                    "source": "Kirchgaessner, S. (2025, September 2). <a href=\"Ice obtains access to Israeli-made spyware that can hack phones and encrypted apps.\" target=\"_blank\"> “https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware”</a> The Guardian."
+                }
             ]
         },
     ]
