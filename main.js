@@ -12,6 +12,10 @@ const countryNameOutput = document.querySelector(".side-panel .container .countr
 const myTooltip = document.getElementById('myTooltip');
 
 var dataById = {};
+//const str = JSON.stringify(data);
+
+//console.log(new TextEncoder().encode(str).length/1000)
+//console.log(Object.keys(data).length)
 
 data.forEach(function (d) {
     dataById[d.country] = {
@@ -161,7 +165,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
         let x2 = pt.x - xPropW * width2;
         let y2 = pt.y - yPropH * height2;
 
-        console.log(width2)
+        //console.log(width2)
         if (width2 <= 14 || width2 >= 14000) //zoomed in/out too much
             return;
 

@@ -82,7 +82,7 @@ const data =
                     "source": "Gutierrez M, Jamail M. (1986, May 27) <a href=\"https://www.merip.org/1986/05/israel-in-central-america/\" target=\"_blank\"> “Israel in Central America”</a>. Middle East Research and Information Project."
                 },
                 {
-                    "text": "Between 2014 and 2022, the corrupt Honduran president Hernández supercharged the state surveillance apparatus with the help of multiple Israeli spyware companies including Circles, NSO Group and Cellbrite",
+                    "text": "Between 2014 and 2022, the corrupt Honduran president Hernández supercharged the state surveillance apparatus with the help of multiple Israeli spyware companies including Circles, NSO Group and Cellebrite",
                     "source": "Brigida, A.-C. (2023, January 31). <a href=\"https://www.codastory.com/surveillance-and-control/honduras-surveillance-drug-trade/\" target=\"_blank\"> “How surveillance tech helped protect power-And the drug trade-In Honduras.”</a> Coda Story."
                 },
                 {
@@ -210,7 +210,7 @@ const data =
 
                 },
                 {
-                    "text": "The Israeli firms Septier and Cellbrite have provided mass surveillance technologies to the government of Paraguay.",
+                    "text": "The Israeli firms Septier and Cellebrite have provided mass surveillance technologies to the government of Paraguay.",
                     "source": "Ramírez, A. (2025, May 19). <a href=\"https://www.tedic.org/en/imsi-catchers-in-paraguay-the-invisible-surveillance-threatening-your-right-to-protest/\" target=\"_blank\"> “IMSI catchers in Paraguay: The invisible surveillance threatening your right to protest.”</a> TEDIC."
 
                 }
@@ -336,6 +336,10 @@ const data =
                 {
                     "text": "Israel armed the three sides of Angola's civil war at different times over four decades",
                     "source": "Mack, E. (2024, May 9). <a href=\"https://www.the7eye.org.il/517733\" target=\"_blank\"> “Israel's Cold War in Angola.”</a> The Seventh Eye."
+                },
+                {
+                    "text": "An Amnesty International investigation revealed that the Israeli-owned Intellexa spyware was used in 2024 to hack the head of Angola's journalists union as he was fighting the regime's surveillance of reporters.",
+                    "source": "Benjakob, O. (2026, February 18). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2026-02-18/ty-article-magazine/.premium/fake-escort-services-to-greetings-cards-intellexa-spyware-targets-journalists-in-angola/0000019c-6b08-d759-a7bf-ff9a17050000\" target=\"_blank\"> “Fake escort services and Mothers' Day cards: Israeli-owned Intellexa spyware targets and exploits Journalists in Angola.”</a>  Haaretz."
                 }
             ]
         },
@@ -456,7 +460,7 @@ const data =
                     "source": "Shezaf, H., & Jacobson, J. (2018, October 20). <a href=\"https://www.haaretz.com/israel-news/.premium.MAGAZINE-israel-s-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays-1.6573027\" target=\"_blank\"> “Revealed: Israel's cyber-spy industry helps world dictators hunt dissidents and gays.”</a> Haaretz.com."
                 },
                 {
-                    "text": "The Israeli firm Cellbrite products were used against journalists in Nigeria.",
+                    "text": "The Israeli firm Cellebrite products were used against journalists in Nigeria.",
                     "source": "Rozen, J. (2019, October 22). <a href=\"https://cpj.org/2019/10/nigerian-military-target-journalists-phones-forensic-search/\" target=\"_blank\"> “Nigerian military targeted journalists' phones, computers with “forensic search” for sources.”</a> Committee to Protect Journalists."
                 }
             ]
@@ -658,7 +662,7 @@ const data =
             "items": [
                 {
                     "text": "Human rights activists from Morocco have been targeted with the infamous Pegasus spyware produced by the Israeli company NSO Group since at least October 2017.",
-                    "source": "Amnesty International. (2023, August 10). <a href=\"https://www.amnesty.org/en/latest/research/2019/10/morocco-human-rights-defenders-targeted-with-nso-groups-spyware/\" target=\"_blank\"> “Morocco: Human Rights Defenders Targeted with NSO Group's Spyware.”</a>"
+                    "source": "Amnesty International. (2019, October 10). <a href=\"https://www.amnesty.org/en/latest/research/2019/10/morocco-human-rights-defenders-targeted-with-nso-groups-spyware/\" target=\"_blank\"> “Morocco: Human Rights Defenders Targeted with NSO Group's Spyware.”</a>"
                 },
                 {
                     "text": "Israel has been arming the regime, known for its human rights abuses, since the 1970s, some arms have been obtained to be used in Western Sahara.",
@@ -738,7 +742,10 @@ const data =
                     "text": "Until at least 2020, the Thai government, that has a history of leveraging a wide range of surveillance technologies to monitor and harass civil society, was a client of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to snoop on calls, texts, and the location of phones.",
                     "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab."
                 },
-
+                {
+                    "text": "The Thai army heavliy relied on Israeli weapons and technology during the 2025 border conflict with Cambodia.",
+                    "source": "Yaron, O. (2025, December 10). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2025-12-10/ty-article/.premium/in-battles-with-cambodia-israeli-weapons-help-thailand-achieve-superiority/0000019b-094b-d153-abbf-ed6faa5e0000\" target=\"_blank\"> “In battles with Cambodia, Israeli weapons help Thailand achieve superiority.”</a> Haaretz."
+                }
             ]
         },
         {
@@ -816,7 +823,7 @@ const data =
             "country": "Jordan",
             "items": [
                 {
-                    "text": "A Citzen Lab investigation has uncovered the use of the Israeli firm Celbrite products since at least 2020 in criminal prosecutions against activists and members of Jordanian civil society, specially Gaza war protesters, in a manner that does not comply with human rights treaties that Jordan has ratified.",
+                    "text": "A Citzen Lab investigation has uncovered the use of the Israeli firm Cellebrite products since at least 2020 in criminal prosecutions against activists and members of Jordanian civil society, specially Gaza war protesters, in a manner that does not comply with human rights treaties that Jordan has ratified.",
                     "source": "Al-Shawareb, K., et al., (2026, January 22). <a href=\"https://citizenlab.ca/research/from-protest-to-peril-cellebrite-used-against-jordanian-civil-society/\" target=\"_blank\"> “From Protest to Peril: Cellebrite Used Against Jordanian Civil Society.”</a> The Citizen Lab."
                 },
                 {
@@ -879,7 +886,11 @@ const data =
                 {
                     "text": "Israel has been arming Myanmar since the mid 20th century and the trade was maintained throughout the Rohingya genocide of 2016-17. The sales even continued until at least early 2022 despite a UN arms embargo and a 2017 ruling by Israel's High Court.",
                     "source": "Yaron, O. (2023, September 5). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2023-09-05/ty-article/.premium/israel-sold-arms-to-myanmar-even-after-the-2021-military-coup/0000018a-6000-d339-a3af-f5b673e90000\" target=\"_blank\"> “Israel sold arms to Myanmar even after the 2021 military coup.”</a> Haaretz.com."
-                }
+                },
+                {
+                    "text": "In 2017, an investigation revealed that Myanmar was a client of Ability Inc, an Israeli surveillance company specialising in cellphone snooping technologies.",
+                    "source": "Brewster, T. (2017, September 27). <a href=\"https://www.forbes.com/sites/thomasbrewster/2017/09/27/ability-inc-ss7-hackers-fail-to-sell-surveillance/\" target=\"_blank\"> “Behind The Fall Of Ability Inc-The Israeli Hackers Who Can Tap Your Cell For $20M.”</a> Forbes."
+                },
             ]
         },
         {
@@ -948,6 +959,10 @@ const data =
                 {
                     "text": "Israel's Cellebrite phone-cracking product was used against pro-democracy protesters in Hong Kong, and was still being sold to China even after the company said it ended sales.",
                     "source": "Hvistendahl, M. (2023, July 26). <a href=\"https://theintercept.com/2021/08/26/cellebrite-china-cellphone-hack/\" target=\"_blank\"> “ Chinese police kept buying Cellebrite phone crackers after company said it ended sales.”</a> The Intercept."
+                },
+                {
+                    "text": "In 2017, an investigation revealed that China was a client of Ability Inc, an Israeli surveillance company specialising in cellphone snooping technologies.",
+                    "source": "Brewster, T. (2017, September 27). <a href=\"https://www.forbes.com/sites/thomasbrewster/2017/09/27/ability-inc-ss7-hackers-fail-to-sell-surveillance/\" target=\"_blank\"> “Behind The Fall Of Ability Inc-The Israeli Hackers Who Can Tap Your Cell For $20M.”</a> Forbes."
                 },
                 {
                     "text": "Israel became a key backdoor to Western military technology for China after Western sanctions on China following the 1989 Tiananmen protest crackdown.",
@@ -1044,6 +1059,159 @@ const data =
                 {
                     "text": "In 2025,  Immigration and Customs Enforcement (ICE) obtained access to Israeli-made spyware that can hack phones and encrypted apps.",
                     "source": "Kirchgaessner, S. (2025, September 2). <a href=\"Ice obtains access to Israeli-made spyware that can hack phones and encrypted apps.\" target=\"_blank\"> “https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware”</a> The Guardian."
+                }
+            ]
+        },
+        {
+            "country": "Australia",
+            "items": [
+                {
+                    "text": "Researchers uncovered infrastructres used by the Israeli (now American-owned) spyware firm Paragon in Australia, but it's unkown if any Australias have been targeted.",
+                    "source": "Marczak B., et al. (2025, March 19). <a href=\"https://citizenlab.ca/research/a-first-look-at-paragons-proliferating-spyware-operations/\" target=\"_blank\"> “Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "The Israeli firm Cellebrite has sold its phone cracking tools to multiple Australian government departments.",
+                    "source": "Loewenstein, A. (2023, May 31). <a href=\"https://declassifiedaus.org/2023/05/31/the-israeli-company-hacking-into-your-locked-mobile-phone/\" target=\"_blank\"> “The Israeli Company Hacking Into Your Llocked Mobile Phone.”</a> Declassified Australia."
+                }
+            ]
+        },
+        {
+            "country": "New Zealand",
+            "items": [
+                {
+                    "text": "Between 2020 and 2024 the Ministry for Business Innovation and Employment hired Israeli-US surveillance company Cobwebs Technologies to search social media and other sites to deter arrivals of asylum seekers.",
+                    "source": "Pennington, P. (2024, June 9). <a href=\"https://www.rnz.co.nz/news/national/519051/mbie-ends-contract-with-spyware-company-but-is-looking-for-a-replacement\" target=\"_blank\"> “MBIE ends contract with spyware company—But is looking for a replacement.”</a> RNZ."
+                }
+            ]
+        },
+        {
+            "country": "Vietnam",
+            "items": [
+                {
+                    "text": "A Haaretz investigation revealed that Cellebrite sold its digital forensics tools to a Vietnamese ministry known for persecuting bloggers, journalists and religious and ethnic minorities.",
+                    "source": "Yaron, O. (2021, July 15). <a href=\"https://www.haaretz.com/israel-news/tech-news/2021-07-15/ty-article/.premium/what-vietnam-is-doing-with-israels-phone-hacking-tech/0000017f-db44-df62-a9ff-dfd7ed060000\" target=\"_blank\"> “What Vietnam is doing with Israeli phone-hacking tech.”</a> Haaretz."
+                },
+                {
+                    "text": "In 2023, an investigation by Amnesty International revleaved that Predator spywre attack infrastructure was associated with a government actor in Vietnam",
+                    "source": "Amnesty International Security Lab (2023, October 9). <a href=\"https://www.amnesty.org/en/latest/news/2023/10/global-predator-files-spyware-scandal-reveals-brazen-targeting-of-civil-society-politicians-and-officials/\" target=\"_blank\"> “Global: 'Predator Files' spyware scandal reveals brazen targeting of civil society, politicians and officials.”</a> Amnesty International."
+                }
+            ]
+        },
+        {
+            "country": "Nepal",
+            "items": [
+                {
+                    "text": "Israeli declassified documents revealed that Israel propped up Nepal's dictatorial monarchy by selling it arms and providing trainign programs.",
+                    "source": "Mack, E. (2024, October 19). <a href=\"https://www.haaretz.com/israel-news/2024-10-19/ty-article-magazine/.highlight/uzis-commando-training-and-fish-how-israel-propped-up-nepals-dictatorial-monarchy/00000192-a16d-d997-add6-a96f8ca60000\" target=\"_blank\"> “Uzis, commando training and fish: How Israel propped up Nepal's dictatorial monarchy.”</a> Haaretz."
+                }
+            ]
+        },
+        {
+            "country": "Mongolia",
+            "items": [
+                {
+                    "text": "In 2023, an Amnesty International inevestigatoin found technical infrastructure linked to the Israeli Predator spyware system indicating its presence in the country.",
+                    "source": "Amnesty International's Security Lab (2023, October 5). <a href=\"https://www.amnesty.org/en/latest/news/2023/10/global-predator-files-investigation-reveals-catastrophic-failure-to-regulate-surveillance-trade/\" target=\"_blank\"> “Exposing a global surveillance crisis.”</a> Amnesty International."
+                }
+            ]
+        },
+        {
+            "country": "Singapore",
+            "items": [
+                {
+                    "text": "In 2025, Researchers uncovered infrastructres used by the Israeli (now American-owned) spyware firm Paragon in Singapore.",
+                    "source": "Marczak B., et al. (2025, March 19). <a href=\"https://citizenlab.ca/research/a-first-look-at-paragons-proliferating-spyware-operations/\" target=\"_blank\"> “Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "In 2017, an investigation revealed that Singapore was a client of Ability Inc, an Israeli surveillance company specialising in cellphone snooping technologies.",
+                    "source": "Brewster, T. (2017, September 27). <a href=\"https://www.forbes.com/sites/thomasbrewster/2017/09/27/ability-inc-ss7-hackers-fail-to-sell-surveillance/\" target=\"_blank\"> “Behind The Fall Of Ability Inc-The Israeli Hackers Who Can Tap Your Cell For $20M.”</a> Forbes."
+                },
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Singapore between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group’s Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "A 2022 Reuters investigation revealed the Singaporean government was one the first clients of the now defunct Israeli spyware firm QuaDream that develops software for remotely breaking into Apple's iPhones.",
+                    "source": "Bing, C., et al. (2022, February 3). <a href=\"https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/\" target=\"_blank\"> “EXCLUSIVE iPhone flaw exploited by second Israeli spy firm-sources.”</a> Reuters."
+                },
+            ]
+        },
+        {
+            "country": "Pakistan",
+            "items": [
+                {
+                    "text": "Pakistan's spy agency has been using the Israeli Cellebrite's phone cracking technology since at least 2012.",
+                    "source": "Yaron, O. (2023, August 3). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2023-08-03/ty-article/.premium/pakistans-spy-agency-buys-israeli-cellphone-hacking-tech/00000189-b608-db5d-a5fd-b62979680000\" target=\"_blank\"> “Pakistan’s spy agency buys Israeli cellphone hacking tech.”</a> Haaretz."
+                },
+                {
+                    "text": "The Israeli Predator spyware has been used against at least a human rights activist in Pakistan.",
+                    "source": "Benjakob, O., et al. (2025, December 4). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2025-12-04/ty-article-magazine/.premium/israeli-spyware-firm-intellexa-owned-by-ex-intel-officer-still-active-amid-us-sanctions/0000019a-e3e8-db35-afbf-ebfcb8bb0000\" target=\"_blank\"> “Hacked in Pakistan: Israeli Spyware firm Intellexa, owned by ex-intel officer, still active amid U.S. sanctio.”</a> Haaretz."
+                }
+            ]
+        },
+        {
+            "country": "Tajikistan",
+            "items": [
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Tajikistan between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "The Israeli spyware Predator has been used in Tajikstan since at least 2025.",
+                    "source": "Amnesty International Security Lab. (2025, December 4). <a href=\"https://securitylab.amnesty.org/latest/2025/12/intellexa-leaks-predator-spyware-operations-exposed/\" target=\"_blank\"> “To Catch a Predator: Leak exposes the internal operations of Intellexa’s mercenary spyware.”</a> Amnesty International. "
+                }
+            ]
+        },
+        {
+            "country": "Kyrgyzstan",
+            "items": [
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Kyrgyzstan between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                }
+            ]
+        },
+        {
+            "country": "Uzbekistan",
+            "items": [
+                {
+                    "text": "In 2019, an investigation revealed that the State Security Service, a secret police known for it's human rights violations was using spyware from the Israeli firm Candiru.",
+                    "source": "Zetter, K. (2019, October 3). <a href=\"https://www.vice.com/en/article/uzbekistan-hacking-operations-uncovered-due-to-spectacularly-bad-opsec/\" target=\"_blank\"> “Researchers Say They Uncovered Uzbekistan Hacking Operations Due to Spectacularly Bad OPSEC.”</a> VICE."
+                },
+                {
+                    "text": "The Israeli spyware Predator has been used in Uzbekistan since at least 2025.",
+                    "source": "Amnesty International Security Lab. (2025, December 4). <a href=\"https://securitylab.amnesty.org/latest/2025/12/intellexa-leaks-predator-spyware-operations-exposed/\" target=\"_blank\"> “To Catch a Predator: Leak exposes the internal operations of Intellexa’s mercenary spyware.”</a> Amnesty International. "
+                },
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Uzbekistan between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "Israeli firms NICE and Verint set up monitoring centers in Uzbekistan on behalf of the their spy agency to spy on their own citizens.",
+                    "source": "Bajak, F., & Gillum, J. (2016, August 3). <a href=\"http://www.timesofisrael.com/with-cheap-israeli-spy-tools-nations-are-monitoring-everyone/\" target=\"_blank\"> “With cheap Israeli spy tools, nations are 'monitoring everyone'.”</a> The Times of Israel."
+                }
+            ]
+        },
+        {
+            "country": "Kazakhstan",
+            "items": [
+                {
+                    "text": "Israeli firms NICE and Verint set up monitoring centers in Kazakhstan on behalf of the their spy agency to spy on their own citizens.",
+                    "source": "Bajak, F., & Gillum, J. (2016, August 3). <a href=\"http://www.timesofisrael.com/with-cheap-israeli-spy-tools-nations-are-monitoring-everyone/\" target=\"_blank\"> “With cheap Israeli spy tools, nations are 'monitoring everyone'.”</a> The Times of Israel."
+
+                },
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Kyrgyzstan between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                }
+            ]
+        },
+        {
+            "country": "Georgia",
+            "items": [
+                {
+                    "text": "Georgia has been using phone cracking tech from the Israeli company Cellebrite and renewed their contract during the 2025 protest.",
+                    "source": "Papachristou, L. (2025, February 27). <a href=\"https://www.reuters.com/world/georgia-purchase-israeli-data-extraction-tech-amid-street-protest-crackdown-2025-02-27/\" target=\"_blank\"> “Georgia to purchase Israeli data extraction tech amid street protest crackdown.”</a> Reuters."
                 }
             ]
         },
