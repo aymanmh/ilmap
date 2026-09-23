@@ -310,3 +310,48 @@ svg.addEventListener('mouseup', () => {
 svg.addEventListener('mouseleave', () => {
     isPanning = false; // Stop panning if mouse leaves the SVG area
 });
+
+
+  (function () {
+    // Edit these to match your map.
+    // shape is optional: "square" (default), "circle" or "line"
+    var items = [
+      { label: "Data Available",  color: "#443D4B" },
+      { label: "No Data Available", color: "#716C76" },
+    ];
+
+    var legend = document.getElementById("mapLegend");
+    var toggle = document.getElementById("mapLegendToggle");
+    var list   = document.getElementById("mapLegendList");
+
+    // Build the list
+    items.forEach(function (item) {
+      var li = document.createElement("li");
+      li.className = "map-legend__item";
+
+      var swatch = document.createElement("span");
+      swatch.className = "map-legend__swatch" +
+        (item.shape === "circle" || item.shape === "line"
+          ? " map-legend__swatch--" + item.shape : "");
+      swatch.style.background = item.color;
+      swatch.setAttribute("aria-hidden", "true");
+
+      var text = document.createElement("span");
+      text.textContent = item.label;
+
+      li.appendChild(swatch);
+      li.appendChild(text);
+      list.appendChild(li);
+    });
+
+    // Open / close
+    function setOpen(open) {
+      legend.classList.toggle("is-open", open);
+      toggle.setAttribute("aria-expanded", String(open));
+    }
+
+    toggle.addEventListener("click", function () {
+      setOpen(!legend.classList.contains("is-open"));
+    });
+
+  })();

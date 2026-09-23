@@ -183,3 +183,130 @@ button:disabled {
     opacity: 0;
     transition: opacity 0.3s ease;
 }
+
+
+.map-legend {
+    --legend-bg: rgba(255, 255, 255, 0.94);
+    --legend-fg: #1f2933;
+    --legend-muted: #6b7785;
+    --legend-border: rgba(15, 23, 42, 0.14);
+
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font: 13px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: var(--legend-fg);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .map-legend {
+      --legend-bg: #1d1a20;
+      --legend-fg: #e6eaef;
+      --legend-muted: #97a3b0;
+      --legend-border: rgba(255, 255, 255, 0.16);
+    }
+  }
+
+  /* Panel: animates open/closed with the 0fr -> 1fr grid trick */
+  .map-legend__panel {
+    display: grid;
+    grid-template-rows: 0fr;
+    margin-bottom: 0;
+    background: var(--legend-bg);
+    border: 1px solid transparent;
+    border-radius: 8px;
+    box-shadow: none;
+    opacity: 0;
+    transition: grid-template-rows 0.2s ease, opacity 0.2s ease,
+                margin-bottom 0.2s ease, border-color 0.2s ease,
+                box-shadow 0.2s ease;
+    backdrop-filter: blur(4px);
+  }
+
+  .map-legend.is-open .map-legend__panel {
+    grid-template-rows: 1fr;
+    margin-bottom: 8px;
+    opacity: 0.95;
+    border-color: var(--legend-border);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  }
+
+  .map-legend__inner {
+    overflow: hidden;
+    min-height: 0;
+  }
+
+  .map-legend__list {
+    list-style: none;
+    margin: 0;
+    padding: 10px 14px;
+    display: grid;
+    gap: 6px;
+    min-width: 150px;
+    max-height: 50vh;
+    overflow-y: auto;
+  }
+
+  .map-legend__item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    white-space: nowrap;
+  }
+
+  .map-legend__swatch {
+    flex: none;
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.18);
+  }
+  .map-legend__swatch--circle { border-radius: 50%; }
+  .map-legend__swatch--line {
+    height: 3px;
+    border-radius: 2px;
+    box-shadow: none;
+  }
+
+  /* Toggle button */
+  .map-legend__toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    opacity: 0.95;
+    padding: 6px 12px;
+    font: inherit;
+    font-weight: 500;
+    color: var(--legend-fg);
+    background: var(--legend-bg);
+    border: 1px solid var(--legend-border);
+    border-radius: 999px;
+    cursor: pointer;
+    backdrop-filter: blur(4px);
+  }
+  .map-legend__toggle:hover { border-color: var(--legend-muted); }
+  .map-legend__toggle:focus-visible {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+  }
+
+  .map-legend__chevron {
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid var(--legend-muted);
+    border-bottom: 2px solid var(--legend-muted);
+    transform: rotate(-135deg) translate(-1px, -1px); /* points up when closed */
+    transition: transform 0.2s ease;
+  }
+  .map-legend.is-open .map-legend__chevron {
+    transform: rotate(45deg) translate(-1px, -1px);   /* points down when open */
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .map-legend__panel,
+    .map-legend__chevron { transition: none; }
+  }

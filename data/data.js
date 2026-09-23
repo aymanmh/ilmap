@@ -71,7 +71,11 @@ const data =
                 {
                     "text": "A 2020 investigation by The Cartel Project found that the Mexican police sold spyware technology to drug cartels. The specifics of which spyware were sold is unknown, but given the NSO's large share of the Mexican spyware market, Pegasus is a likely suspect.",
                     "source": "Lakhani, N. (2020, December 10). <a href=\"https://www.theguardian.com/world/2020/dec/07/mexico-cartels-drugs-spying-corruption\" target=\"_blank\"> ““It's a free-for-all”: how hi-tech spyware ends up in the hands of Mexico's cartels.”</a> The Guardian."
-                }
+                },
+                {
+                    "text": "Hungary hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
             ]
         },
         {
@@ -268,7 +272,7 @@ const data =
                     "source": "Duchiade, A. (2025, July 16). <a href=\"https://latamjournalismreview.org/articles/brazils-intelligence-agency-spied-on-reporters-to-discredit-them-police-say/\" target=\"_blank\"> “Brazil's intelligence agency spied on reporters to discredit them, police say.”</a> LatAm Journalism Review. "
                 },
                 {
-                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Brzil between 2016-2018.",
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Brazil between 2016-2018.",
                     "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
                 },
             ]
@@ -427,7 +431,7 @@ const data =
                 },
                 {
                     "text": "in 2016-17 a spyware bought from the Israeli cyber security company Cyberbit was used against dissidents living in the U.S., U.K. and other countries.",
-                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2017/12/champing-cyberbit-ethiopian-dissidents-targeted-commercial-spyware/\" target=\"_blank\"> “Champing at the Cyberbit: Ethiopian Dissidents Targeted with New Commercial Spyware.”</a>  The Citizen Lab."
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2017/12/champing-cyberbit-ethiopian-dissidents-targeted-commercial-spyware/\" target=\"_blank\"> “Champing at the Cyberbit: Ethiopian Dissidents Targeted with New Commercial Spyware.”</a> The Citizen Lab."
                 },
                 {
                     "text": "The Ethiopian police, who according to reports, are responsible for mass detention of minorities and persecution of opposition forces and journalists, bought phone hacking tech from the Israeli surveillance firm Cellebrite to hack into the cellphones of detainees.",
@@ -574,7 +578,11 @@ const data =
                 {
                     "text": "Ghana spent more than US$5m in 2016 on Pegasus spyware from Israeli company NSO Group. Ghana has also acquired spyware from Israeli companies Quadream and Mer Group and Phone-Cracking software from Cellebrite.",
                     "source": "Roberts, T., et al. (2023, September 25). <a href=\"https://hdl.handle.net/20.500.12413/18120\" target=\"_blank\"> “Mapping the Supply of Surveillance Technologies to Africa: Case Studies from Nigeria, Ghana, Morocco, Malawi, and Zambia.”</a> The Institute of Development Studies."
-                }
+                },
+                {
+                    "text": "Ghana hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
             ]
         },
         {
@@ -1019,16 +1027,11 @@ const data =
                     "text": "The UAE Supreme Council on National Security (SCNS), the Dubai Government and other organizations in the country were clients of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to snoop on calls, texts, and the location of phones.",
                     "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab."
                 },
-
-            ]
-        },
-        {
-            "country": "Bosnia and Herzegovina",
-            "items": [
                 {
-                    "text": "Israel provided training and sold arms to Serbian forces during the genocide in Bosnia in the 1990s long after the UN Security Council placed an arms embargo on various parts of the former Yugoslavia. In 2016 the Supreme Court in Israel ruled against exposing Israel's role in Bosnian genocide citing potential damage to Israel's foreign relations.",
-                    "source": "Brown, J. (2016, December 6). <a href=\"https://www.972mag.com/israels-involvement-in-bosnian-genocide-to-remain-under-wraps/\" target=\"_blank\"> “Supreme Court rules against exposing Israel's role in Bosnian genocide.”</a> +972 Magazine."
-                }
+                    "text": "UAE hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
+
             ]
         },
         {
@@ -1189,7 +1192,11 @@ const data =
                 {
                     "text": "Israeli firms NICE and Verint set up monitoring centers in Uzbekistan on behalf of the their spy agency to spy on their own citizens.",
                     "source": "Bajak, F., & Gillum, J. (2016, August 3). <a href=\"http://www.timesofisrael.com/with-cheap-israeli-spy-tools-nations-are-monitoring-everyone/\" target=\"_blank\"> “With cheap Israeli spy tools, nations are 'monitoring everyone'.”</a> The Times of Israel."
-                }
+                },
+                {
+                    "text": "Uzbekistan hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
             ]
         },
         {
@@ -1215,7 +1222,284 @@ const data =
                 }
             ]
         },
+        {
+            "country": "Russian Federation",
+            "items": [
+                {
+                    "text": "Russia's Investigative Committee targeted LGBTQs, Navalny, using Israeli phone-hacking tech.",
+                    "source": "Yaron, O. (2020, September 23). <a href=\"https://www.haaretz.com/israel-news/tech-news/2020-09-23/ty-article/.premium/putin-investigators-targeting-lgbtqs-navalny-use-israeli-phone-hacking-tech-cellebrite/0000017f-e0f5-d38f-a57f-e6f7165d0000\" target=\"_blank\"> “Putin investigators targeting LGBTQs, Navalny, use Israeli phone-hacking tech.”</a> Haaretz."
+                },
+                {
+                    "text": "Pegasus spyware was used in targeting of russian & belarusian-speaking opposition activists and independent media in Europe.",
+                    "source": "Scott-Railton, et al. (2024, May 30). <a href=\"https://citizenlab.ca/research/pegasus-russian-belarusian-speaking-opposition-media-europe/\" target=\"_blank\"> “By Whose Authority? Pegasus Targeting of Russian & Belarusian-Speaking Opposition Activists and Independent Media in Europe.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "Israel stayed out of Western sanctions on Russia and refrained from large-scale lethal arms deliveries to Ukraine.",
+                    "source": "Khanin, V. (2026, July 3). <a href=\"https://ridl.io/a-partnership-in-doubt-the-evolution-of-russian-israeli-relations/\" target=\"_blank\"> “A Partnership in Doubt: The Evolution of Russian-Israeli Relations.”</a> Riddle."
+                }
+            ]
+        },
+        {
+            "country": "Belarus",
+            "items": [
+                {
+                    "text": "The Israeli company Cellebrite provided phone cracking technology to Berlarus.",
+                    "source": "Yaron, O. (2020, August 18). <a href=\"https://www.haaretz.com/israel-news/2020-08-18/ty-article/.premium/whats-israeli-phone-hacking-firm-cellebrite-doing-in-sanctioned-belarus/0000017f-e198-d75c-a7ff-fd9dff0b0000\" target=\"_blank\"> “Israeli phone-hacking firm Cellebrite vowed not to sell to sanctioned countries. So what's it doing in Belarus.”</a> Haaretz."
+                },
+                {
+                    "text": "Pegasus spyware was used in targeting of russian & belarusian-speaking opposition activists and independent media in Europe.",
+                    "source": "Scott-Railton, et al. (2024, May 30). <a href=\"https://citizenlab.ca/research/pegasus-russian-belarusian-speaking-opposition-media-europe/\" target=\"_blank\"> “By Whose Authority? Pegasus Targeting of Russian & Belarusian-Speaking Opposition Activists and Independent Media in Europe.”</a> The Citizen Lab."
+                }
+            ]
+        },
+        {
+            "country": "Estonia",
+            "items": [
+                {
+                    "text": "Until at least 2020, the Estonian government was a client of the Israeli surveillance firm Circles (affiliated with the NSO Group) that reportedly exploits weaknesses in the global mobile phone system to snoop on calls, texts, and the location of phones.",
+                    "source": "Marczak, B. (2021, June 29).<a href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"> “Running in Circles: Uncovering the clients of cyberespionage firm Circles.”</a> The Citizen Lab."
+                }
+            ]
+        },
+        {
+            "country": "Latvia",
+            "items": [
+                {
+                    "text": "In 2025 the spyware Graphite, developed by the Israeli company Paragon was used against Latvian numbers through WhatsApp. Latvia was not a Paragon customer.",
+                    "source": "Kirchgaessner, S., & Giuffrida, A. (2025, February 6). <a href=\"https://www.theguardian.com/technology/2025/feb/06/owner-of-spyware-used-in-alleged-whatsapp-breach-ends-contract-with-italy\" target=\"_blank\"> “Owner of spyware used in alleged WhatsApp breach ends contract with Italy.”</a> The Guardian."
+
+                },
+            ]
+        },
+        {
+            "country": "Lithuania",
+            "items": [
+                {
+                    "text": "In 2025 the spyware Graphite, developed by the Israeli company Paragon was used against Lithuanian numbers through WhatsApp. Lithuania was not a Paragon customer.",
+                    "source": "Kirchgaessner, S., & Giuffrida, A. (2025, February 6). <a href=\"https://www.theguardian.com/technology/2025/feb/06/owner-of-spyware-used-in-alleged-whatsapp-breach-ends-contract-with-italy\" target=\"_blank\"> “Owner of spyware used in alleged WhatsApp breach ends contract with Italy.”</a> The Guardian."
+
+                },
+            ]
+        },
+        {
+            "country": "Norway",
+            "items": [
+                {
+                    "text": "Israeli telecom infrastructure was used to track citizens in Norway.",
+                    "source": "Benjakob, O. (2026, May 3). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2026-05-03/ty-article-magazine/ghost-operators-how-israeli-telecoms-were-exploited-to-track-citizens-worldwide/0000019d-e9c0-dd9a-a79d-ede90a450000\" target=\"_blank\"> “Ghost Operators: How Israeli telecoms were exploited to track citizens worldwide.”</a> Haaretz."
+
+                },
+            ]
+        },
+        {
+            "country": "Denmark",
+            "items": [
+                {
+                    "text": "In 2025, Researchers uncovered infrastructres used by the Israeli (now American-owned) spyware firm Paragon in Denmark.",
+                    "source": "Marczak B., et al. (2025, March 19). <a href=\"https://citizenlab.ca/research/a-first-look-at-paragons-proliferating-spyware-operations/\" target=\"_blank\"> “Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Poland",
+            "items": [
+                {
+                    "text": "The Israeli spyare Pegasus was purchased and used by Polish intellegence.",
+                    "source": "Al Jazeera. (2026, February 25). <a href=\"https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware\" target=\"_blank\"> “Poland charges ex-intel chiefs for using Israel's Pegasus spyware.”</a> Al Jazeera."
+                },
+            ]
+        },
+        {
+            "country": "Slovenia",
+            "items": [
+                {
+                    "text": "Israeli spy firm Black Cube interfered in the country's 2026 national elections in favour of the opposition through covert surveillance and manipulated recordings.",
+                    "source": "WALKER, A., et al. (2026, March 19). <a href=\"https://www.politico.eu/article/black-cube-leak-tape-corruption-israel-spy-firm-slovenia-election/\" target=\"_blank\"> “Black Cube, leaked tapes and corruption: Israeli spy firm crashes Slovenia's election.”</a> POLITICO."
+                },
+            ]
+        },
+        {
+            "country": "Slovakia",
+            "items": [
+                {
+                    "text": "In 2024 Slovakia has aquired Pegasus spyware raising concerns given the deteriorating situation for democracy and human rights in the country.",
+                    "source": " ARTICLE 19 Team. (2024, September 9). <a href=\"https://www.article19.org/resources/slovakia-use-of-pegasus-a-threat-to-democracy-and-human-rights/\" target=\"_blank\"> “Slovakia: Use of Pegasus a threat to democracy and human rights.”</a> ARTICLE 19. "
+                },
+            ]
+        },
+        {
+            "country": "Hungary",
+            "items": [
+                {
+                    "text": "Israeli spy firm Black Cube targeted NGOs during Hungary's 2018 election campaign.",
+                    "source": "Bayer, L. (2018, July 6). <a href=\"https://www.politico.eu/article/viktor-orban-israeli-intelligence-firm-targeted-ngos-during-hungarys-election-campaign-george-soros/\" target=\"_blank\"> “Israeli intelligence firm targeted NGOs during Hungary's election campaign.”</a> POLITICO."
+                },
+                {
+                    "text": "Viktor Orbán goverment used the Israeli spyware Pegasus in assualt on investigative journalists.",
+                    "source": "Walker, S. (2021, July 18). <a href=\"https://www.theguardian.com/news/2021/jul/18/viktor-orban-using-nso-spyware-in-assault-on-media-data-suggests\" target=\"_blank\"> “Viktor Orbán using NSO spyware in assault on media, data suggests.”</a> The Guardian."
+                },
+                {
+                    "text": "Viktor Orbán's government have been secretly using Webloc - a mass surveillance tool that tracks hundreds of millions of people via smartphone - and Candiru spyware, both developed by Israeli firms.",
+                    "source": "Panyi, S. (2026, April 9). <a href=\"https://vsquare.org/orban-spying-toolkit-cobwebs-webloc-hungary-spyware-citizen-lab/\" target=\"_blank\"> “Orbán's Spying Kit Revealed: Israeli Surveillance Tool Combined with Hungarian Technology.”</a> VSquare.Org."
+                },
+                {
+                    "text": "Hungary hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Romania",
+            "items": [
+                {
+                    "text": "Israel maintained warm relations with the anti-Semitic Ceausescu dictatorial regime thoughout the 1960s-1980s.",
+                    "source": "Iraqi, A. (2019, December 3). <a href=\"https://www.972mag.com/israel-romanian-dictator-anti-semitism/\" target=\"_blank\"> “Israel embraced Romanian dictator's support—Knowing he was anti-Semitic.”</a> +972 Magazine. "
+                },
+                {
+                    "text": "Israeli Black Cube firm was trying to intimidate the country's former top corruption prosecutor in 2016.",
+                    "source": "ToI Staff.  (2022, March 21). <a href=\"https://www.timesofisrael.com/3-israelis-from-black-cube-intel-firm-given-suspended-sentence-in-romania/\" target=\"_blank\"> “3 Israelis from Black Cube intel firm given suspended sentence in Romania.”</a> The Times of Israel. "
+                },
+                {
+                    "text": "Romania hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Bulgaria",
+            "items": [
+                {
+                    "text": "A number of Israeli cyber companies use Bulgaria as an entry point into Europe, including NSO Group, Ability, a US-Israeli interceptions group and Almenta Group, which develops phone and Wi-Fi tapping systems.",
+                    "source": "Intelligence Online Team. (2024, October 18). <a href=\"https://www.intelligenceonline.com/europe-russia/2024/10/18/sofia-israeli-cyber-specialists--trusted-european-base,110328942-eve\" target=\"_blank\"> “Sofia, Israeli cyber specialists' trusted European base.”</a> Intelligence Online."
+                },
+                {
+                    "text": "Circles BG, a Bulgaria based sister company of Israeli-based NSO Group approved the sale of spyware to intelligence and security agencies in countries with records of human rights abuses.",
+                    "source": "Roussi, A. (2026, June 18). <a href=\"https://www.politico.eu/article/bulgaria-surveillance-exports-spy-agencies-leaked-licenses-circles-bg/\" target=\"_blank\"> “Bulgaria approved surveillance exports to foreign spy agencies, leaked licenses show.”</a> POLITICO."
+                },
+                {
+                    "text": "Bulgaria hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Czech Republic",
+            "items": [
+                {
+                    "text": "The spyware firm Intellexa, owned by the Israeli army reserve Colonel Tal Dilian and behind the Predator spyware, uses Czech Republic as a base of operations.",
+                    "source": "May, P. (2025, August 20). <a href=\" https://vsquare.org/how-a-czech-supply-chain-feeds-the-global-spyware-machine/\" target=\"_blank\"> “How a Czech Supply Chain Feeds the Global Spyware Machine.”</a> VSquare.Org."
+                },
+                {
+                    "text": "Czech Republic hosts infrastructure for QuaDream, an Israeli company that specializes in advanced digital offensive technology that was used against journalists, political opposition figures, and an NGO worker worldwide.",
+                    "source": "Marczak B., et al. (2023, April 11)  <a href=\"https://citizenlab.ca/research/spyware-vendor-quadream-exploits-victims-customers/\" target=\"_blank\"> “Sweet QuaDreams: A First Look at Spyware Vendor QuaDream's Exploits, Victims, and Customers.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Croatia",
+            "items": [
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Croatia between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Serbia",
+            "items": [
+                {
+                    "text": "The Israeli Pegasus spyware was used against Serbian pro-democracy student activist in 2025/2026.",
+                    "source": " The Citizen Lab. (2026, September 2). <a href=\"https://citizenlab.ca/research/pegasus-spyware-infection-of-serbian-activist/\" target=\"_blank\"> “Pegasus Spyware Infection of Serbian Pro-Democracy Student Activist.”</a> The Citizen Lab."
+                },
+                {
+                    "text": "Serbia has used the Israeli firm Cellebrite products to extract data from mobile devices belonging to journalists and activists.",
+                    "source": " Amnesty International Team. (2024, December 16). <a href=\"https://www.amnesty.org/en/documents/eur70/8813/2024/en/\" target=\"_blank\"> “Serbia: “A Digital Prison”: Surveillance and the suppression of civil society in Serbia.”</a> Amnesty International. "
+                },
+                {
+                    "text": "Israel provided training and sold arms to Serbian forces during the genocide in Bosnia in the 1990s long after the UN Security Council placed an arms embargo on various parts of the former Yugoslavia. In 2016 the Supreme Court in Israel ruled against exposing Israel's role in Bosnian genocide citing potential damage to Israel's foreign relations.",
+                    "source": "Brown, J. (2016, December 6). <a href=\"https://www.972mag.com/israels-involvement-in-bosnian-genocide-to-remain-under-wraps/\" target=\"_blank\"> “Supreme Court rules against exposing Israel's role in Bosnian genocide.”</a> +972 Magazine."
+                },
+            ]
+        },
+        {
+            "country": "Macedonia",
+            "items": [
+                {
+                    "text": "In 2017 Israel established Cytrox in Macedonia, the company behind the Predator spyware.",
+                    "source": "Benjakob, O., & Scharf, A. (2023, June 28). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2023-06-28/ty-article/israel-invested-in-spyware-that-brought-down-greek-spymaster/00000188-dd36-d5fc-ab9d-df7edbf20000\" target=\"_blank\"> “Israel invested in spyware that brought down Greek spymaster.”</a> Haaretz."
+                },
+            ]
+        },
+        {
+            "country": "Greece",
+            "items": [
+                {
+                    "text": "In 2022 the Israeli Predator spyware was used to target the phones of 87 prominent individuals. The targets included the leader of the main opposition party, a journalist who covered corruption in the Greek banking sector, and the editor of the country’s top newspaper.",
+                    "source": "Kenner, D., & Reddy, M. (2026, February 26). <a href=\"https://www.icij.org/investigations/cyprus-confidential/greek-court-convicts-intellexa-founder-tal-dilian-three-others-in-wiretapping-scandal/\" target=\"_blank\"> “Greek court convicts Intellexa founder Tal Dilian, three others in wiretapping scandal.”</a> ICIJ."
+                },
+                {
+                    "text": "Former Member of the European Parliament, Stelios Kouloglou, was repeatedly hacked with Israeli NSO Group's Pegasus spyware while on the committee investigating Pegasus spyware abuses.",
+                    "source": "Scott-Railton, J., et al. (2026, July 3). <a href=\"https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/\" target=\"_blank\"> “Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Italy",
+            "items": [
+                {
+                    "text": "A spyware made by the Israeli firm Paragon was used to hack the phones of two activists and a local investigative journalist.",
+                    "source": "Benjakob, O. (2026, March 9). <a href=\"https://www.haaretz.com/israel-news/security-aviation/2026-03-09/ty-article/.premium/despite-meloni-denials-prosecutors-say-israeli-spyware-used-to-hack-journalist/0000019c-cebb-d8f8-a9de-ffbbd8260000\" target=\"_blank\"> “Despite Meloni denials, Italian prosecutors now say Israeli spyware used to hack journalist.”</a> Haaretz."
+                },
+            ]
+        },
+        {
+            "country": "Germany",
+            "items": [
+                {
+                    "text": "German police secretly bought the Israeli Pegasus spyware despite lawyers' objections.",
+                    "source": "DW, (2021, July 9). <a href=\"https://www.dw.com/en/german-police-secretly-bought-nso-pegasus-spyware/a-59113197\" target=\"_blank\"> “German police secretly bought Pegasus spyware.”</a> Dw.Com."
+                },
+            ]
+        },
+        {
+            "country": "Switzerland",
+            "items": [
+                {
+                    "text": "A Citizens Lab investigation uncovered the use of the Israeli Pegasus spyware in Switzerland between 2016-2018.",
+                    "source": "Marczak, B. (2020, May 8). <a href=\"https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/\" target=\"_blank\"> “HIDE AND SEEK: Tracking NSO Group's Pegasus spyware to operations in 45 countries.”</a> The Citizen Lab."
+                },
+            ]
+        },
+        {
+            "country": "Belgium",
+            "items": [
+                {
+                    "text": "A Belgian statesman was among EU officials targeted with Israeli spyware.",
+                    "source": "Satter, R., et al. (2022, April 11). <a href=\"https://www.reuters.com/technology/exclusive-senior-eu-officials-were-targeted-with-israeli-spyware-sources-2022-04-11/\" target=\"_blank\"> “Exclusive: Senior EU officials were targeted with Israeli spyware.”</a> Reuters."
+                },
+            ]
+        },
+        {
+            "country": "Cyprus",
+            "items": [
+                {
+                    "text": "A 2023 ICIJ investigation uncovered how Cyprus became a launchpad for a number of Israeli spyware and surveillance companies.",
+                    "source": "Kenner, D. (2023, November 15). <a href=\"https://www.icij.org/investigations/cyprus-confidential/israeli-predator-spyware-cyprus-offshore-intellexa/\" target=\"_blank\"> “The spy, the lawyer and their global surveillance empire.”</a> ICIJ."
+                },
+            ]
+        },
+        {
+            "country": "United Kingdom",
+            "items": [
+                {
+                    "text": "The UK government is using spyware and surveillance products from Israeli companies Corsight, Cellebrite and BriefCam.",
+                    "source": "Cordall, S. S. (2026, February 26). <a href=\"https://www.aljazeera.com/news/2026/2/26/blood-tech-the-uk-and-the-israeli-spyware-that-helps-underpin-genocide\" target=\"_blank\"> “Blood tech: UK’s use of Israeli spyware that helps underpin a genocide.”</a> Al Jazeera."
+                },
+            ]
+        },
     ]
+
+
 
 
 

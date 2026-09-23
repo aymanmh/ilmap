@@ -1570,13 +1570,18 @@ THE SOFTWARE.
             <i class="fa-solid fa-xmark"></i>
         </button>
     </div>
-    <!--
-    <div class="zoom-controls">
-        <button class="zoom-in"><i class="fa-solid fa-plus"></i></button>
-        <button class="zoom-out"><i class="fa-solid fa-minus"></i></button>
-        <p class="zoom-value">100%</p>
+    <div class="map-legend" id="mapLegend">
+    <div class="map-legend__panel" id="mapLegendPanel" role="region" aria-label="Map legend">
+        <div class="map-legend__inner">
+        <ul class="map-legend__list" id="mapLegendList"></ul>
+        </div>
     </div>
-    -->
+    <button class="map-legend__toggle" id="mapLegendToggle" type="button"
+            aria-expanded="false" aria-controls="mapLegendPanel">
+        <span>Legend</span>
+        <span class="map-legend__chevron" aria-hidden="true"></span>
+    </button>
+    </div>
     <script src="data/data.js"></script>
     <script src="main.js"></script>
 </body>
